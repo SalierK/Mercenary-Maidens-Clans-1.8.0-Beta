@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="spcwandererzzmercenarymaidensluna" name="Luna" age="19" voice="earnest" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.5256" build="0.6351" key="001374054014300B7577966D5367C72B8649AA8859B5DB564BB268C49A556385003A860303A69A8B00000000000000000000000000000000000000003E6C4003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.5256" build="0.6351" key="001374054014300B7577966D5367C72B8649AA8859B5DB564BB268C49A556385003A860303A69A8B00000000000000000000000000000000000000003E6C4003"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="0"/>
+      <skill id="Scouting" value="150"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Medicine" value="90"/>
+      <skill id="Leadership" value="80"/>
+      <skill id="Polearm" value="90"/>
+      <skill id="Engineering" value="50"/>
+      <skill id="Tactics" value="70"/>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Athletics" value="50"/>
+      <skill id="TwoHanded" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battania_shoulder_strap" slot="Cape"/>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="northern_plated_boots" slot="Leg"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="sturgia_old_shield_c" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensnova" name="Nova" age="21" voice="ironic" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.3469" build="0.404" key="0020A80600B40002A6C8B78824466568CBCAECA6C8D6CC37599B6BD36A7245DD0076560307C87C89000000000000000000000000000000000000000064F400C3"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.3469" build="0.404" key="0020A80600B40002A6C8B78824466568CBCAECA6C8D6CC37599B6BD36A7245DD0076560307C87C89000000000000000000000000000000000000000064F400C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="170"/>
+      <skill id="TwoHanded" value="150"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Medicine" value="50"/>
+      <skill id="Scouting" value="190"/>
+      <skill id="Athletics" value="90"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="Polearm" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battania_shoulder_strap" slot="Cape"/>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="northern_plated_boots" slot="Leg"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="strapped_round_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenssapphire" name="Sapphire" age="20" voice="curt" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.5587" build="0.665" key="0010200200001001AA871E9A6DA34D6588A9A579887A399C594AA983DB0179D2007A860307EDA98A00000000000000000000000000000000000000003AEC0043"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.5587" build="0.665" key="0010200200001001AA871E9A6DA34D6588A9A579887A399C594AA983DB0179D2007A860307EDA98A00000000000000000000000000000000000000003AEC0043"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Scouting" value="50"/>
+      <skill id="Tactics" value="40"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Roguery" value="90"/>
+      <skill id="TwoHanded" value="100"/>
+      <skill id="Polearm" value="50"/>
+      <skill id="Athletics" value="30"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Generosity" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="northern_plated_boots" slot="Leg"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="strapped_round_shield" slot="Item1"/>
+        <equipment id="battania_shoulder_strap" slot="Cape"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenstreasure" name="Treasure" age="24" voice="ironic" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.2221" build="0.5825" key="000AE00000A0300B8A877996E645CCA58A64AA56CCC7B699194A7C2CA6A8797C008936030898891C000000000000000000000000000000000000000018FC0003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.2221" build="0.5825" key="000AE00000A0300B8A877996E645CCA58A64AA56CCC7B699194A7C2CA6A8797C008936030898891C000000000000000000000000000000000000000018FC0003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="OneHanded" value="50"/>
+      <skill id="Riding" value="180"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Leadership" value="80"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Medicine" value="50"/>
+      <skill id="Engineering" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="peaked_helmet_over_mail_coif" slot="Head"/>
+        <equipment id="northern_brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="brass_lamellar_shoulder_white" slot="Cape"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="empire_sword_4_t4" slot="Item0"/>
+        <equipment id="tall_heater_shield" slot="Item1"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenspearl" name="Pearl" age="25" voice="softspoken" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.2221" build="0.711" key="00157C0140440006EA5593794AC26CA98786533B98827EED75477A7CE6A58678005B36030572926800000000000000000000000000000000000000003EAC0003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.2221" build="0.711" key="00157C0140440006EA5593794AC26CA98786533B98827EED75477A7CE6A58678005B36030572926800000000000000000000000000000000000000003EAC0003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="180"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Scouting" value="220"/>
+      <skill id="Steward" value="30"/>
+      <skill id="Leadership" value="50"/>
+      <skill id="Tactics" value="270"/>
+      <skill id="OneHanded" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="pointed_skullcap_over_mail_coif" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_white_a" slot="Cape"/>
+        <equipment id="northern_brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="tall_heater_shield" slot="Item1"/>
+        <equipment id="empire_sword_4_t4" slot="Item2"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenskairi" name="Kairi" age="23" voice="curt" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.8523" build="0.3539" key="0018A80E40B43002C68D979A985B79A9998DB3E7779948D897B7D8294C65966D0065D60306956564000000000000000000000000000000000000000044BC0043"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.8523" build="0.3539" key="0018A80E40B43002C68D979A985B79A9998DB3E7779948D897B7D8294C65966D0065D60306956564000000000000000000000000000000000000000044BC0043"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="0"/>
+      <skill id="OneHanded" value="150"/>
+      <skill id="Bow" value="200"/>
+      <skill id="Riding" value="200"/>
+      <skill id="Scouting" value="170"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Leadership" value="250"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Tactics" value="89"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="peaked_helmet_over_mail_coif" slot="Head"/>
+        <equipment id="leopard_pelt" slot="Cape"/>
+        <equipment id="northern_brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="empire_sword_4_t4" slot="Item0"/>
+        <equipment id="noble_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensflora" name="Flora" age="26" voice="earnest" culture="Culture.sturgia" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.2608" build="0.7812" key="0000780600000015998737867C2A79AB496257334A7946937A3E38487A47926C007C460307B414C2000000000000000000000000000000000000000060E41043"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.2608" build="0.7812" key="0000780600000015998737867C2A79AB496257334A7946937A3E38487A47926C007C460307B414C2000000000000000000000000000000000000000060E41043"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="OneHanded" value="50"/>
+      <skill id="Scouting" value="50"/>
+      <skill id="Leadership" value="250"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Tactics" value="50"/>
+      <skill id="Riding" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Calculating" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_helmet_base" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="mail_and_plate_barding" slot="HorseHarness"/>
+        <equipment id="battania_noble_sword_3_t5" slot="Item0"/>
+        <equipment id="reinforced_kite_shield" slot="Item1"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenswillow" name="Willow" age="20" voice="ironic" culture="Culture.sturgia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.3745" build="0.5126" key="0026B80AC0880009671485A5E1679F1A989477C3EC574A985797799A6558896C0058660305788397000000000000000000000000000000000000000044AC40C3"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.3745" build="0.5126" key="0026B80AC0880009671485A5E1679F1A989477C3EC574A985797799A6558896C0058660305788397000000000000000000000000000000000000000044AC40C3"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="250"/>
+      <skill id="Crossbow" value="200"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Steward" value="50"/>
+      <skill id="Leadership" value="230"/>
+      <skill id="Medicine" value="50"/>
+      <skill id="Roguery" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_helmet_base" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensserenity" name="Serenity" age="19" voice="curt" culture="Culture.sturgia" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.2169" build="0.4041" key="001B380000FC300665AA6A3843AA59C667C8A747479C723827BE43BA7A34A713003636030397AE1C000000000000000000000000000000000000000022744043"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.2169" build="0.4041" key="001B380000FC300665AA6A3843AA59C667C8A747479C723827BE43BA7A34A713003636030397AE1C000000000000000000000000000000000000000022744043"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="250"/>
+      <skill id="OneHanded" value="100"/>
+      <skill id="Polearm" value="50"/>
+      <skill id="Athletics" value="70"/>
+      <skill id="Scouting" value="30"/>
+      <skill id="Leadership" value="50"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Engineering" value="90"/>
+      <skill id="Throwing" value="0"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_helmet_base" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensjade" name="Jade" age="22" voice="earnest" culture="Culture.sturgia" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.0627" build="0.2413" key="000A68020088100514BDC6C8938A843565B485682A88281389CAA4527372A68A008416030872B93500000000000000000000000000000000000000005B140083"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.0627" build="0.2413" key="000A68020088100514BDC6C8938A843565B485682A88281389CAA4527372A68A008416030872B93500000000000000000000000000000000000000005B140083"/>
+    </face>
+    <skills>
+      <skill id="Throwing" value="200"/>
+      <skill id="TwoHanded" value="150"/>
+      <skill id="Athletics" value="90"/>
+      <skill id="Roguery" value="100"/>
+      <skill id="Steward" value="90"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Scouting" value="80"/>
+      <skill id="Riding" value="50"/>
+      <skill id="Engineering" value="120"/>
+      <skill id="OneHanded" value="100"/>
+      <skill id="Polearm" value="130"/>
+      <skill id="Tactics" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="aserai_2haxe_3_t5" slot="Item0"/>
+        <equipment id="northern_goggled_helmet" slot="Head"/>
+        <equipment id="battania_shoulder_strap_cloak" slot="Cape"/>
+        <equipment id="sturgian_chainmale_longsleeve" slot="Body"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item1"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item2"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="battanian_savage_armor" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensfaith" name="Faith" age="18" voice="curt" culture="Culture.sturgia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.7074" build="0.3675" key="00080804000000044C548597A6C94A6F69B9C85B77AA9967AA9A97C738A45A9900A6B6030A36447600000000000000000000000000000000000000002D4C3003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.7074" build="0.3675" key="00080804000000044C548597A6C94A6F69B9C85B77AA9967AA9A97C738A45A9900A6B6030A36447600000000000000000000000000000000000000002D4C3003"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="200"/>
+      <skill id="Leadership" value="300"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Medicine" value="90"/>
+      <skill id="Trade" value="200"/>
+      <skill id="Roguery" value="180"/>
+      <skill id="TwoHanded" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Calculating" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_goggled_helmet" slot="Head"/>
+        <equipment id="battania_shoulder_strap_cloak" slot="Cape"/>
+        <equipment id="sturgian_chainmale_longsleeve" slot="Body"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="bearded_axe_t3" slot="Item0"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_short_dress" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenstaylor" name="Taylor" age="20" voice="softspoken" culture="Culture.sturgia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.2905" build="0.474" key="001E380A4044300A779764359A7547B335B5669A9A7A77ACA51676555A7955850087460308985AB500000000000000000000000000000000000000002D044003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.2905" build="0.474" key="001E380A4044300A779764359A7547B335B5669A9A7A77ACA51676555A7955850087460308985AB500000000000000000000000000000000000000002D044003"/>
+    </face>
+    <skills>
+      <skill id="Crossbow" value="250"/>
+      <skill id="Polearm" value="200"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Tactics" value="130"/>
+      <skill id="Medicine" value="50"/>
+      <skill id="Scouting" value="90"/>
+      <skill id="Bow" value="99"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_goggled_helmet" slot="Head"/>
+        <equipment id="rough_bearskin" slot="Cape"/>
+        <equipment id="sturgian_chainmale_longsleeve" slot="Body"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="crossbow_c" slot="Item1"/>
+        <equipment id="bolt_b" slot="Item2"/>
+        <equipment id="bolt_b" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="battanian_savage_armor" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensharmony" name="Harmony" age="23" voice="softspoken" culture="Culture.battania" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.1277" build="0.561" key="00185C0000881010789AA893387ADC31954A863587974357867A48B566C98728008826030875EB290000000000000000000000000000000000000000211C0003"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.1277" build="0.561" key="00185C0000881010789AA893387ADC31954A863587974357867A48B566C98728008826030875EB290000000000000000000000000000000000000000211C0003"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="0"/>
+      <skill id="OneHanded" value="150"/>
+      <skill id="TwoHanded" value="190"/>
+      <skill id="Polearm" value="150"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Steward" value="180"/>
+      <skill id="Roguery" value="170"/>
+      <skill id="Charm" value="148"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="2"/>
+      <Trait id="Calculating" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_polearm_1_t5" slot="Item0"/>
+        <equipment id="empire_lord_helmet" slot="Head"/>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="reinforced_padded_mitten" slot="Gloves"/>
+        <equipment id="strapped_mail_chausses" slot="Leg"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensjune" name="June" age="18" voice="curt" culture="Culture.battania" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.3916" build="0.7414" key="000AB40E40B4200F94758AA9AA8BC4347978424B7BD295C974B449765666BB7E005B660305B578870000000000000000000000000000000000000000349C20C3"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.3916" build="0.7414" key="000AB40E40B4200F94758AA9AA8BC4347978424B7BD295C974B449765666BB7E005B660305B578870000000000000000000000000000000000000000349C20C3"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="190"/>
+      <skill id="Crossbow" value="150"/>
+      <skill id="Athletics" value="160"/>
+      <skill id="Tactics" value="90"/>
+      <skill id="Scouting" value="70"/>
+      <skill id="Leadership" value="130"/>
+      <skill id="Steward" value="140"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Trade" value="90"/>
+      <skill id="Riding" value="185"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="1"/>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="ironlame_nasalhelm_over_imperial_cloth" slot="Head"/>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="reinforced_padded_mitten" slot="Gloves"/>
+        <equipment id="strapped_mail_chausses" slot="Leg"/>
+        <equipment id="battania_sword_3_t3" slot="Item0"/>
+        <equipment id="noble_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensriver" name="River" age="20" voice="curt" culture="Culture.battania" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.724" build="0.5" key="002028035F2C300655E5846375B9179B866943466B8777273563BE74695759690047B60304A28881000000000000000000000000000000000000000042841083"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.724" build="0.5" key="002028035F2C300655E5846375B9179B866943466B8777273563BE74695759690047B60304A28881000000000000000000000000000000000000000042841083"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="250"/>
+      <skill id="Riding" value="230"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Leadership" value="90"/>
+      <skill id="Steward" value="70"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Roguery" value="180"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="ironlame_nasalhelm_over_imperial_cloth" slot="Head"/>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="reinforced_padded_mitten" slot="Gloves"/>
+        <equipment id="strapped_mail_chausses" slot="Leg"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="t2_battania_horse" slot="Horse"/>
+        <equipment id="celtic_frost" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="khuzait_sword_1_t2" slot="Item1"/>
+        <equipment id="bound_horsemans_kite_shield" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensamy" name="Amy" age="23" voice="earnest" culture="Culture.battania" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.7123" build="0.5035" key="0036840A40FC2002665CD777A8AB557677A49CB7AE784E7987ACE6A487B9C6740078B60307B7B8A9000000000000000000000000000000000000000024E40083"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.7123" build="0.5035" key="0036840A40FC2002665CD777A8AB557677A49CB7AE784E7987ACE6A487B9C6740078B60307B7B8A9000000000000000000000000000000000000000024E40083"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="50"/>
+      <skill id="Leadership" value="250"/>
+      <skill id="Steward" value="280"/>
+      <skill id="Medicine" value="190"/>
+      <skill id="Engineering" value="200"/>
+      <skill id="Scouting" value="90"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="Roguery" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="-1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="imperial_lamellar_shoulders" slot="Cape"/>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenstrinity" name="Trinity" age="25" voice="earnest" culture="Culture.battania" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.3987" build="0.5831" key="0013DC0400E42002B845583959A48617A87D938C3673AA4978C867193B7B6869006966030667B6B0000000000000000000000000000000000000000040D41043"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.3987" build="0.5831" key="0013DC0400E42002B845583959A48617A87D938C3673AA4978C867193B7B6869006966030667B6B0000000000000000000000000000000000000000040D41043"/>
+    </face>
+    <skills>
+      <skill id="Crossbow" value="160"/>
+      <skill id="Bow" value="120"/>
+      <skill id="Scouting" value="160"/>
+      <skill id="Tactics" value="120"/>
+      <skill id="Roguery" value="130"/>
+      <skill id="Leadership" value="80"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Medicine" value="90"/>
+      <skill id="TwoHanded" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+      <Trait id="Calculating" value="-2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="imperial_lamellar_shoulders" slot="Cape"/>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensphoenix" name="Phoenix" age="19" voice="curt" culture="Culture.battania" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.0993" build="0.3441" key="0023A402002C20076863BB36CC8859366677B68776877677AE7C7969A383AA7600851603088B57540000000000000000000000000000000000000000271C2083"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.0993" build="0.3441" key="0023A402002C20076863BB36CC8859366677B68776877677AE7C7969A383AA7600851603088B57540000000000000000000000000000000000000000271C2083"/>
+    </face>
+    <skills>
+      <skill id="Throwing" value="180"/>
+      <skill id="OneHanded" value="190"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Steward" value="80"/>
+      <skill id="Leadership" value="130"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="TwoHanded" value="100"/>
+      <skill id="Polearm" value="120"/>
+      <skill id="Trade" value="90"/>
+      <skill id="Roguery" value="130"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="1"/>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Honor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="imperial_lamellar_shoulders" slot="Cape"/>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+        <equipment id="empire_sword_4_t4" slot="Item0"/>
+        <equipment id="western_kite_shield" slot="Item1"/>
+        <equipment id="northern_javelin_3_t4" slot="Item2"/>
+        <equipment id="northern_javelin_3_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenseretria" name="Eretria" age="24" voice="ironic" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.65" weight="0.0355" build="0.0522" key="001BE80FC0441004800E077E265EE020688788FAFBC100177EEF8E7F76EA11E10021160302002170000000000000000000000000000000000000000006344003"/>
+      <BodyPropertiesMax version="4" age="22.65" weight="0.0355" build="0.0522" key="001BE80FC0441004800E077E265EE020688788FAFBC100177EEF8E7F76EA11E10021160302002170000000000000000000000000000000000000000006344003"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="200"/>
+      <skill id="TwoHanded" value="250"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Throwing" value="180"/>
+      <skill id="Crossbow" value="240"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Bow" value="250"/>
+      <skill id="Medicine" value="140"/>
+      <skill id="Roguery" value="240"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Engineering" value="150"/>
+      <skill id="Charm" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Generosity" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_crown_west" slot="Head"/>
+        <equipment id="aserai_noble_sword_2_t5" slot="Item0"/>
+        <equipment id="imperial_lamellar_shoulders" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="crossbow_c" slot="Item1"/>
+        <equipment id="fortified_kite_shield" slot="Item2"/>
+        <equipment id="bolt_b" slot="Item3"/>
+        <equipment id="noble_horse_eastern" slot="Horse"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+        <equipment id="empire_crown_v2" slot="Head"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensamberle" name="Amberle" age="20" voice="earnest" culture="Culture.battania" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.0553" build="0" key="0013940D8070300A108898C9944F81DC7115818A7FC7E6E07F85ADB09BEF70820C8016C20A88E8FF00000000000000000000000000000000000000001D040003"/>
+      <BodyPropertiesMax version="4" age="20" weight="0.0553" build="0" key="0013940D8070300A108898C9944F81DC7115818A7FC7E6E07F85ADB09BEF70820C8016C20A88E8FF00000000000000000000000000000000000000001D040003"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="300"/>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Leadership" value="280"/>
+      <skill id="Engineering" value="260"/>
+      <skill id="Medicine" value="300"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Riding" value="300"/>
+      <skill id="Athletics" value="200"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Generosity" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_crown_v2" slot="Head"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="imperial_lamellar_shoulders" slot="Cape"/>
+        <equipment id="noble_horse" slot="Horse"/>
+        <equipment id="imperial_scale_barding" slot="HorseHarness"/>
+        <equipment id="fortified_kite_shield" slot="Item0"/>
+        <equipment id="empire_noble_sword_2_t5" slot="Item1"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="plain_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+        <equipment id="empire_crown_v2" slot="Head"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslyria" name="Lyria" age="25" voice="softspoken" culture="Culture.aserai" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.0534" build="0.0015" key="002BD40A401410010077030C577187C6095B889976B88087D1A7FD7F7FF8C7690C6016C2F943481F00000000000000000000000000000000000000005ADC0003"/>
+      <BodyPropertiesMax version="4" age="20" weight="0.0534" build="0.0015" key="002BD40A401410010077030C577187C6095B889976B88087D1A7FD7F7FF8C7690C6016C2F943481F00000000000000000000000000000000000000005ADC0003"/>
+    </face>
+    <skills>
+      <skill id="Medicine" value="150"/>
+      <skill id="OneHanded" value="250"/>
+      <skill id="Leadership" value="300"/>
+      <skill id="Steward" value="300"/>
+      <skill id="Tactics" value="200"/>
+      <skill id="Scouting" value="50"/>
+      <skill id="Athletics" value="200"/>
+      <skill id="Charm" value="200"/>
+      <skill id="Engineering" value="180"/>
+      <skill id="Roguery" value="50"/>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Polearm" value="220"/>
+      <skill id="Throwing" value="250"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Honor" value="2"/>
+      <Trait id="Mercy" value="2"/>
+      <Trait id="Generosity" value="2"/>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="battania_crown" slot="Head"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="a_aserai_scale_b_shoulder_e" slot="Cape"/>
+        <equipment id="aserai_noble_sword_2_t5" slot="Item0"/>
+        <equipment id="heavy_heater_shield" slot="Item1"/>
+        <equipment id="eastern_javelin_3_t4" slot="Item2"/>
+        <equipment id="eastern_javelin_3_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="empire_crown_north" slot="Head"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensgenesis" name="Genesis" age="25" voice="curt" culture="Culture.vlandia" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.3309" build="0.827" key="000A780340141004AA4577A68C6BC87A677965A6D4894917677A66B97B5D839400AC56030A77B35100000000000000000000000000000000000000003D441043"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.3309" build="0.827" key="000A780340141004AA4577A68C6BC87A677965A6D4894917677A66B97B5D839400AC56030A77B35100000000000000000000000000000000000000003D441043"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="100"/>
+      <skill id="TwoHanded" value="190"/>
+      <skill id="Polearm" value="169"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Tactics" value="50"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Roguery" value="90"/>
+      <skill id="Medicine" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battania_warlord_armor" slot="Body"/>
+        <equipment id="sturgia_2haxe_1_t4" slot="Item0"/>
+        <equipment id="battanian_noble_helmet_with_feather" slot="Head"/>
+        <equipment id="battania_warlord_bracers" slot="Gloves"/>
+        <equipment id="battania_warlord_boots" slot="Leg"/>
+        <equipment id="a_aserai_scale_b_shoulder_b" slot="Cape"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensmelody" name="Melody" age="19" voice="softspoken" culture="Culture.vlandia" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.79" weight="0.8351" build="0.5568" key="0008D808C014201064437A28D5989A9D69977986B98A6693D74DBA6E686B54960098D6030974395500000000000000000000000000000000000000005F341083"/>
+      <BodyPropertiesMax version="4" age="22.79" weight="0.8351" build="0.5568" key="0008D808C014201064437A28D5989A9D69977986B98A6693D74DBA6E686B54960098D6030974395500000000000000000000000000000000000000005F341083"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="150"/>
+      <skill id="OneHanded" value="100"/>
+      <skill id="Crossbow" value="100"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Scouting" value="90"/>
+      <skill id="Charm" value="100"/>
+      <skill id="Roguery" value="150"/>
+      <skill id="Athletics" value="80"/>
+      <skill id="Riding" value="200"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="-1"/>
+      <Trait id="Valor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battania_warlord_armor" slot="Body"/>
+        <equipment id="battanian_noble_helmet_with_feather" slot="Head"/>
+        <equipment id="battania_warlord_bracers" slot="Gloves"/>
+        <equipment id="battania_warlord_boots" slot="Leg"/>
+        <equipment id="a_aserai_scale_b_shoulder_b" slot="Cape"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="battania_large_shield_c" slot="Item3"/>
+        <equipment id="sturgia_axe_5_t5" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensximena" name="Ximena" age="25" voice="earnest" culture="Culture.vlandia" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.64" weight="0.6497" build="0.496" key="0008540E4000300A25628479482A4A87499389ACB5987CC7A79548A87EE8889D0017A603016944840000000000000000000000000000000000000000221400C3"/>
+      <BodyPropertiesMax version="4" age="22.64" weight="0.6497" build="0.496" key="0008540E4000300A25628479482A4A87499389ACB5987CC7A79548A87EE8889D0017A603016944840000000000000000000000000000000000000000221400C3"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="180"/>
+      <skill id="Riding" value="200"/>
+      <skill id="Scouting" value="180"/>
+      <skill id="Tactics" value="170"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Steward" value="100"/>
+      <skill id="OneHanded" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Valor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battania_warlord_armor" slot="Body"/>
+        <equipment id="battania_warlord_bracers" slot="Gloves"/>
+        <equipment id="battanian_noble_helmet_with_feather" slot="Head"/>
+        <equipment id="battania_warlord_boots" slot="Leg"/>
+        <equipment id="a_aserai_scale_b_shoulder_b" slot="Cape"/>
+        <equipment id="t2_battania_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="light_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="falchion_sword_t2" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensgravelynn" name="Gravelynn" age="22" voice="ironic" culture="Culture.vlandia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.64" weight="0.5712" build="0.1504" key="001E3409802C3002694D3A6DD886A746C4A32A993945898D8A7765354615735500B296030B98A47300000000000000000000000000000000000000003F643083"/>
+      <BodyPropertiesMax version="4" age="22.64" weight="0.5712" build="0.1504" key="001E3409802C3002694D3A6DD886A746C4A32A993945898D8A7765354615735500B296030B98A47300000000000000000000000000000000000000003F643083"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="250"/>
+      <skill id="OneHanded" value="220"/>
+      <skill id="Crossbow" value="200"/>
+      <skill id="Scouting" value="260"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Leadership" value="280"/>
+      <skill id="Medicine" value="200"/>
+      <skill id="Charm" value="100"/>
+      <skill id="Trade" value="200"/>
+      <skill id="Engineering" value="200"/>
+      <skill id="Riding" value="200"/>
+      <skill id="Roguery" value="150"/>
+      <skill id="Athletics" value="100"/>
+      <skill id="Tactics" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Honor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_a" slot="Body"/>
+        <equipment id="empire_battle_crown_west" slot="Head"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="guarded_padded_vambrace" slot="Gloves"/>
+        <equipment id="leather_cavalier_boots" slot="Leg"/>
+        <equipment id="empire_sword_5_t4" slot="Item0"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="plain_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenssafiria" name="Safiria" age="24" voice="earnest" culture="Culture.vlandia" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.64" weight="0.8456" build="0.2546" key="0023700400FC3001A7B842434737B4C88A483B9BEC844AA967449A768538EA580084D603087B87B90000000000000000000000000000000000000000650C30C3"/>
+      <BodyPropertiesMax version="4" age="22.64" weight="0.8456" build="0.2546" key="0023700400FC3001A7B842434737B4C88A483B9BEC844AA967449A768538EA580084D603087B87B90000000000000000000000000000000000000000650C30C3"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="250"/>
+      <skill id="Bow" value="280"/>
+      <skill id="Scouting" value="260"/>
+      <skill id="Leadership" value="280"/>
+      <skill id="Steward" value="260"/>
+      <skill id="Roguery" value="150"/>
+      <skill id="Tactics" value="182"/>
+      <skill id="OneHanded" value="190"/>
+      <skill id="Medicine" value="210"/>
+      <skill id="Engineering" value="120"/>
+      <skill id="Crossbow" value="250"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Calculating" value="-2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_a" slot="Body"/>
+        <equipment id="empire_battle_crown_west" slot="Head"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="guarded_padded_vambrace" slot="Gloves"/>
+        <equipment id="leather_cavalier_boots" slot="Leg"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="studded_steppe_barding" slot="HorseHarness"/>
+        <equipment id="empire_sword_5_t4" slot="Item0"/>
+        <equipment id="composite_steppe_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="plain_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensrobina" name="Robina" age="25" voice="earnest" culture="Culture.vlandia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.24" weight="0.1108" build="0.5369" key="001BD80200582001A8B43B96E9A847576793669769659769DBAC65947B94885700B826030BA75A590000000000000000000000000000000000000000577420C3"/>
+      <BodyPropertiesMax version="4" age="22.24" weight="0.1108" build="0.5369" key="001BD80200582001A8B43B96E9A847576793669769659769DBAC65947B94885700B826030BA75A590000000000000000000000000000000000000000577420C3"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="280"/>
+      <skill id="TwoHanded" value="250"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Leadership" value="250"/>
+      <skill id="Steward" value="280"/>
+      <skill id="Medicine" value="180"/>
+      <skill id="Engineering" value="200"/>
+      <skill id="Roguery" value="250"/>
+      <skill id="Crossbow" value="250"/>
+      <skill id="Scouting" value="280"/>
+      <skill id="Charm" value="150"/>
+      <skill id="Riding" value="240"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_a" slot="Body"/>
+        <equipment id="plumed_helmet" slot="Head"/>
+        <equipment id="a_khuzait_leather_shoulder_b_b" slot="Cape"/>
+        <equipment id="guarded_padded_vambrace" slot="Gloves"/>
+        <equipment id="mail_cavalier_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+        <equipment id="noble_long_bow" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensscarlett" name="Scarlett" age="22" voice="earnest" culture="Culture.aserai" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.26" weight="0.4573" build="0.1144" key="003460040088301047A8A833925B2A88C664C4A49894635962C4A65B2BCB689900927603095A5987000000000000000000000000000000000000000017241043"/>
+      <BodyPropertiesMax version="4" age="22.26" weight="0.4573" build="0.1144" key="003460040088301047A8A833925B2A88C664C4A49894635962C4A65B2BCB689900927603095A5987000000000000000000000000000000000000000017241043"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="160"/>
+      <skill id="Riding" value="180"/>
+      <skill id="OneHanded" value="160"/>
+      <skill id="Scouting" value="150"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Leadership" value="160"/>
+      <skill id="Medicine" value="100"/>
+      <skill id="Engineering" value="50"/>
+      <skill id="Roguery" value="150"/>
+      <skill id="Crafting" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Honor" value="2"/>
+      <Trait id="Generosity" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="composite_steppe_bow" slot="Item0"/>
+        <equipment id="heavy_steppe_arrows" slot="Item1"/>
+        <equipment id="heavy_steppe_arrows" slot="Item2"/>
+        <equipment id="aserai_sword_2_t2" slot="Item3"/>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="a_brass_lamellar_shoulder_white_b" slot="Cape"/>
+        <equipment id="khuzait_noble_helmet_with_fur" slot="Head"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="t2_khuzait_horse" slot="Horse"/>
+        <equipment id="steppe_fur_harness" slot="HorseHarness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenszoey" name="Zoey" age="24" voice="softspoken" culture="Culture.aserai" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.26" weight="0.7313" build="0.6754" key="002E7C0140583002CDA752796777393A8663C769443B4BAA89588A739B993EA9008AB6030832659500000000000000000000000000000000000000001F0C3003"/>
+      <BodyPropertiesMax version="4" age="22.26" weight="0.7313" build="0.6754" key="002E7C0140583002CDA752796777393A8663C769443B4BAA89588A739B993EA9008AB6030832659500000000000000000000000000000000000000001F0C3003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Leadership" value="230"/>
+      <skill id="Medicine" value="200"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="khuzait_noble_helmet_with_fur" slot="Head"/>
+        <equipment id="leather_lamellar_shoulders" slot="Cape"/>
+        <equipment id="eastern_lamellar_armor" slot="Body"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="t2_khuzait_horse" slot="Horse"/>
+        <equipment id="steppe_fur_harness" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="steppe_guardian_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenselena" name="Elena" age="20" voice="earnest" culture="Culture.aserai" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.26" weight="0.429" build="0.3847" key="002E7C009BB4300F6BC2559593F737538667EA49649BC67863938BAB8B4E93690096660309CE15350000000000000000000000000000000000000000433410C3"/>
+      <BodyPropertiesMax version="4" age="22.26" weight="0.429" build="0.3847" key="002E7C009BB4300F6BC2559593F737538667EA49649BC67863938BAB8B4E93690096660309CE15350000000000000000000000000000000000000000433410C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="200"/>
+      <skill id="TwoHanded" value="150"/>
+      <skill id="Polearm" value="100"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Leadership" value="240"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Medicine" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="khuzait_noble_helmet_with_fur" slot="Head"/>
+        <equipment id="a_leather_lamellar_armor_shoulder_a" slot="Cape"/>
+        <equipment id="eastern_lamellar_armor" slot="Body"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="studded_leather_vambraces" slot="Gloves"/>
+        <equipment id="aserai_noble_sword_3_t5" slot="Item0"/>
+        <equipment id="noyans_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_corset_dress" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslillian" name="Lillian" age="20" voice="softspoken" culture="Culture.aserai" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.26" weight="0.694" build="0.2314" key="002BB806C0582006775A7593EE759B9A96497887A698359B3B36367D8B4D94470073A603077B52B900000000000000000000000000000000000000002CE420C3"/>
+      <BodyPropertiesMax version="4" age="22.26" weight="0.694" build="0.2314" key="002BB806C0582006775A7593EE759B9A96497887A698359B3B36367D8B4D94470073A603077B52B900000000000000000000000000000000000000002CE420C3"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="250"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Tactics" value="200"/>
+      <skill id="Engineering" value="250"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="nordic_lamellar_vest" slot="Body"/>
+        <equipment id="emirs_helmet" slot="Head"/>
+        <equipment id="t2_khuzait_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="stitched_leather_shoulders" slot="Cape"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="khuzait_polearm_2_t5" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslucy" name="Lucy" age="23" voice="ironic" culture="Culture.aserai" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.26" weight="0.5092" build="0.5004" key="0031040C404420089B8A587775B9C69896A5A7837A78AE45786845A89B9598890088860308538277000000000000000000000000000000000000000043042003"/>
+      <BodyPropertiesMax version="4" age="22.26" weight="0.5092" build="0.5004" key="0031040C404420089B8A587775B9C69896A5A7837A78AE45786845A89B9598890088860308538277000000000000000000000000000000000000000043042003"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="200"/>
+      <skill id="OneHanded" value="250"/>
+      <skill id="Scouting" value="180"/>
+      <skill id="Steward" value="90"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Medicine" value="200"/>
+      <skill id="Roguery" value="50"/>
+      <skill id="Engineering" value="160"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1"/>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="nordic_lamellar_vest" slot="Body"/>
+        <equipment id="emirs_helmet" slot="Head"/>
+        <equipment id="stitched_leather_shoulders" slot="Cape"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="steppe_war_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="aserai_noble_sword_2_t5" slot="Item0"/>
+        <equipment id="desert_round_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensaaliyah" name="Aaliyah" age="26" voice="softspoken" culture="Culture.aserai" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.55" weight="0.7778" build="0.2927" key="002E580AC02C2006ABEDA4387B777B4EA6C97B44AD84979489C5D53A3ED746A40094C60309A96679000000000000000000000000000000000000000031342043"/>
+      <BodyPropertiesMax version="4" age="22.55" weight="0.7778" build="0.2927" key="002E580AC02C2006ABEDA4387B777B4EA6C97B44AD84979489C5D53A3ED746A40094C60309A96679000000000000000000000000000000000000000031342043"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="150"/>
+      <skill id="Riding" value="180"/>
+      <skill id="Scouting" value="250"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Leadership" value="50"/>
+      <skill id="Engineering" value="180"/>
+      <skill id="Trade" value="100"/>
+      <skill id="Roguery" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="nordic_lamellar_vest" slot="Body"/>
+        <equipment id="emirs_helmet" slot="Head"/>
+        <equipment id="stitched_leather_shoulders" slot="Cape"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="steppe_war_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="aserai_noble_sword_3_t5" slot="Item0"/>
+        <equipment id="bound_desert_round_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensnevaeh" name="Nevaeh" age="20" voice="softspoken" culture="Culture.khuzait" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.55" weight="0.2211" build="0.5854" key="002E5C0D98A020109B8B37187C694B4779774489797964EE87DAB97C79AB657B0079360307778782000000000000000000000000000000000000000028F41083"/>
+      <BodyPropertiesMax version="4" age="22.55" weight="0.2211" build="0.5854" key="002E5C0D98A020109B8B37187C694B4779774489797964EE87DAB97C79AB657B0079360307778782000000000000000000000000000000000000000028F41083"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="150"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Tactics" value="120"/>
+      <skill id="OneHanded" value="150"/>
+      <skill id="Bow" value="180"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="aserai_sword_4_t4" slot="Item0"/>
+        <equipment id="steppe_war_bow" slot="Item1"/>
+        <equipment id="steppe_guardian_shield" slot="Item2"/>
+        <equipment id="heavy_steppe_arrows" slot="Item3"/>
+        <equipment id="khuzait_noble_helmet_with_feathers" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_white_a" slot="Cape"/>
+        <equipment id="eastern_plated_leather_vambraces" slot="Gloves"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="t2_khuzait_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="khuzait_dress_b" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensiris" name="Iris" age="25" voice="ironic" culture="Culture.khuzait" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.55" weight="0.7516" build="0.5751" key="00368806C0A020057C869958976544C638A973CC24864C77C993697771989EB50079B603078D8BA6000000000000000000000000000000000000000016DC20C3"/>
+      <BodyPropertiesMax version="4" age="22.55" weight="0.7516" build="0.5751" key="00368806C0A020057C869958976544C638A973CC24864C77C993697771989EB50079B603078D8BA6000000000000000000000000000000000000000016DC20C3"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="180"/>
+      <skill id="Riding" value="170"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Medicine" value="90"/>
+      <skill id="Engineering" value="200"/>
+      <skill id="OneHanded" value="190"/>
+      <skill id="Tactics" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="-1"/>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="khuzait_noble_helmet_with_feathers" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_white_a" slot="Cape"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="desert_war_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="aserai_noble_sword_3_t5" slot="Item0"/>
+        <equipment id="steppe_war_bow" slot="Item1"/>
+        <equipment id="heavy_steppe_arrows" slot="Item2"/>
+        <equipment id="steppe_guardian_shield" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="steppe_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensjosie" name="Josie" age="24" voice="earnest" culture="Culture.khuzait" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.55" weight="0.7412" build="0.6725" key="0036180A405810046EA41C87466B3868A7238A994248839BB632B68C8ABA48A6009AB603096B64680000000000000000000000000000000000000000172C30C3"/>
+      <BodyPropertiesMax version="4" age="22.55" weight="0.7412" build="0.6725" key="0036180A405810046EA41C87466B3868A7238A994248839BB632B68C8ABA48A6009AB603096B64680000000000000000000000000000000000000000172C30C3"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="180"/>
+      <skill id="Polearm" value="150"/>
+      <skill id="Scouting" value="160"/>
+      <skill id="Steward" value="180"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Medicine" value="100"/>
+      <skill id="Engineering" value="130"/>
+      <skill id="Charm" value="150"/>
+      <skill id="Tactics" value="90"/>
+      <skill id="Trade" value="80"/>
+      <skill id="Roguery" value="50"/>
+      <skill id="Athletics" value="60"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="-1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="desert_war_horse" slot="Horse"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="steppe_guardian_shield" slot="Item1"/>
+        <equipment id="eastern_vendel_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_white_a" slot="Cape"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="khuzait_curved_boots" slot="Leg"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensesther" name="Esther" age="20" voice="curt" culture="Culture.khuzait" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.37" weight="0.445" build="0.2785" key="0026E00D00A010135BBA7C97575654A456AD722E35B9B2376872747C575DA93C004476030467763500000000000000000000000000000000000000004C740043"/>
+      <BodyPropertiesMax version="4" age="22.37" weight="0.445" build="0.2785" key="0026E00D00A010135BBA7C97575654A456AD722E35B9B2376872747C575DA93C004476030467763500000000000000000000000000000000000000004C740043"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="150"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Medicine" value="150"/>
+      <skill id="Engineering" value="160"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="TwoHanded" value="100"/>
+      <skill id="Polearm" value="80"/>
+      <skill id="Tactics" value="90"/>
+      <skill id="Athletics" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="desert_lamellar" slot="Body"/>
+        <equipment id="leatherlame_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_a" slot="Cape"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="noyans_shield" slot="Item0"/>
+        <equipment id="aserai_noble_sword_3_t5" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensemersyn" name="Emersyn" age="19" voice="curt" culture="Culture.khuzait" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.37" weight="0.4322" build="0.7615" key="003C6C0F0044100F4B55CA6883588C8BA68BA6A324B9988A88932A4594A5146B007B6603078A7D6800000000000000000000000000000000000000001AF43003"/>
+      <BodyPropertiesMax version="4" age="22.37" weight="0.4322" build="0.7615" key="003C6C0F0044100F4B55CA6883588C8BA68BA6A324B9988A88932A4594A5146B007B6603078A7D6800000000000000000000000000000000000000001AF43003"/>
+    </face>
+    <skills>
+      <skill id="Athletics" value="120"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Medicine" value="130"/>
+      <skill id="Engineering" value="100"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Bow" value="150"/>
+      <skill id="Crossbow" value="120"/>
+      <skill id="Roguery" value="50"/>
+      <skill id="Trade" value="60"/>
+      <skill id="Charm" value="40"/>
+      <skill id="OneHanded" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="leatherlame_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_a" slot="Cape"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensember" name="Ember" age="21" voice="ironic" culture="Culture.khuzait" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.37" weight="0.4004" build="0.551" key="0023380FC0A01015D3537B88B97447BBD884694D6CBB78565E6A796555B126480078660307A2952C000000000000000000000000000000000000000052EC3083"/>
+      <BodyPropertiesMax version="4" age="22.37" weight="0.4004" build="0.551" key="0023380FC0A01015D3537B88B97447BBD884694D6CBB78565E6A796555B126480078660307A2952C000000000000000000000000000000000000000052EC3083"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="180"/>
+      <skill id="Riding" value="170"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Scouting" value="50"/>
+      <skill id="Leadership" value="100"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Engineering" value="90"/>
+      <skill id="Trade" value="60"/>
+      <skill id="Roguery" value="120"/>
+      <skill id="Athletics" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="brass_lamellar_over_mail" slot="Body"/>
+        <equipment id="leatherlame_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_a" slot="Cape"/>
+        <equipment id="northern_brass_bracers" slot="Gloves"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="t2_khuzait_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="khuzait_polearm_1_t4" slot="Item0"/>
+        <equipment id="noyans_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensbrigitte" name="Brigitte" age="20" voice="earnest" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.3916" build="0.7384" key="000A6C0540A020105E433447A684688B744859AA82A8A867691BD876A374C648006B660306B96698000000000000000000000000000000000000000028CC1083"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.3916" build="0.7384" key="000A6C0540A020105E433447A684688B744859AA82A8A867691BD876A374C648006B660306B96698000000000000000000000000000000000000000028CC1083"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Scouting" value="150"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Medicine" value="120"/>
+      <skill id="Steward" value="90"/>
+      <skill id="Charm" value="50"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Athletics" value="100"/>
+      <skill id="Polearm" value="100"/>
+      <skill id="OneHanded" value="120"/>
+      <skill id="Engineering" value="50"/>
+      <skill id="Trade" value="50"/>
+      <skill id="Roguery" value="80"/>
+      <skill id="Crafting" value="50"/>
+      <skill id="Throwing" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="lamellar_with_scale_skirt" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+        <equipment id="northern_javelin_3_t4" slot="Item1"/>
+        <equipment id="northern_javelin_3_t4" slot="Item2"/>
+        <equipment id="northern_javelin_3_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="dress_with_overall" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslisette" name="Lisette" age="21" voice="ironic" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.7267" build="0.3148" key="00103C0F002C201575B3C9D8E98E85874D97B5597AA756BBC7C2639A659A378C0055B60305782764000000000000000000000000000000000000000014B41083"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.7267" build="0.3148" key="00103C0F002C201575B3C9D8E98E85874D97B5597AA756BBC7C2639A659A378C0055B60305782764000000000000000000000000000000000000000014B41083"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="150"/>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Steward" value="60"/>
+      <skill id="Medicine" value="150"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="Roguery" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="justicier_2hsword" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+        <equipment id="leather_shoes" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensselena" name="Selena" age="19" voice="curt" culture="Culture.empire" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.6839" build="0.1015" key="000D840140A0100DC79687C9898C7BB884765263B9C45874A9276A63D6433D240052A603056D94640000000000000000000000000000000000000000469C0003"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.6839" build="0.1015" key="000D840140A0100DC79687C9898C7BB884765263B9C45874A9276A63D6433D240052A603056D94640000000000000000000000000000000000000000469C0003"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="150"/>
+      <skill id="Crossbow" value="250"/>
+      <skill id="OneHanded" value="180"/>
+      <skill id="Leadership" value="220"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Scouting" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Generosity" value="-1"/>
+      <Trait id="Calculating" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+        <equipment id="crossbow_c" slot="Item0"/>
+        <equipment id="bolt_b" slot="Item1"/>
+        <equipment id="western_kite_shield" slot="Item2"/>
+        <equipment id="falchion_sword_t2" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslennon" name="Lennon" age="24" voice="softspoken" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.6839" build="0.6158" key="00365C06C0CC1002946748AAC9778776A917654376ACC877AC567C4947797C680099A60309969A3500000000000000000000000000000000000000006B240003"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.6839" build="0.6158" key="00365C06C0CC1002946748AAC9778776A917654376ACC877AC567C4947797C680099A60309969A3500000000000000000000000000000000000000006B240003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="Bow" value="270"/>
+      <skill id="Riding" value="270"/>
+      <skill id="Scouting" value="200"/>
+      <skill id="Leadership" value="100"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Tactics" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="bound_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="vlandia_lord_helmet_b2" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="steppe_war_bow" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensdemi" name="Demi" age="25" voice="earnest" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.8605" build="0.5539" key="0008700D8088000469AA859574C7D8267663BDE8478A87B7A344CAAC7E9B74580068D6030676798D000000000000000000000000000000000000000044CC20C3"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.8605" build="0.5539" key="0008700D8088000469AA859574C7D8267663BDE8478A87B7A344CAAC7E9B74580068D6030676798D000000000000000000000000000000000000000044CC20C3"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Medicine" value="250"/>
+      <skill id="Throwing" value="150"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Tactics" value="90"/>
+      <skill id="Scouting" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="vlandia_lord_helmet_b2" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="bound_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="eastern_javelin_2_t3" slot="Item2"/>
+        <equipment id="eastern_javelin_2_t3" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensveronica" name="Veronica" age="20" voice="curt" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.7271" build="0.1847" key="0023E804C02C300A5B653A5578281AE5A65A83477C5BBD48288B52B3A5589A9E00C3B6030C6B956C0000000000000000000000000000000000000000679C1003"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.7271" build="0.1847" key="0023E804C02C300A5B653A5578281AE5A65A83477C5BBD48288B52B3A5589A9E00C3B6030C6B956C0000000000000000000000000000000000000000679C1003"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="150"/>
+      <skill id="TwoHanded" value="120"/>
+      <skill id="Polearm" value="130"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Tactics" value="150"/>
+      <skill id="Athletics" value="200"/>
+      <skill id="Leadership" value="90"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Charm" value="50"/>
+      <skill id="Medicine" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="northern_coat_of_plates" slot="Body"/>
+        <equipment id="vlandia_lord_helmet_b2" slot="Head"/>
+        <equipment id="empire_plate_armor_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="empire_sword_4_t4" slot="Item0"/>
+        <equipment id="western_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenskate" name="Kate" age="20" voice="softspoken" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.3416" build="0.4377" key="0000080D00CC200659C3B3A48C5A59888476B6894B8C6688BAB693B48C28845700B756030B754A750000000000000000000000000000000000000000637400C3"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.3416" build="0.4377" key="0000080D00CC200659C3B3A48C5A59888476B6894B8C6688BAB693B48C28845700B756030B754A750000000000000000000000000000000000000000637400C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="180"/>
+      <skill id="TwoHanded" value="140"/>
+      <skill id="Polearm" value="130"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Steward" value="130"/>
+      <skill id="Medicine" value="80"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="2"/>
+      <Trait id="Honor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="khuzait_sword_4_t4" slot="Item0"/>
+        <equipment id="chivalric_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="imperial_robes" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslegacy" name="Legacy" age="19" voice="earnest" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.5858" build="0.3981" key="002B300404A020108594A878476A64996ACA84D534B89CE618AA7675A917763C004696030478B977000000000000000000000000000000000000000036943083"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.5858" build="0.3981" key="002B300404A020108594A878476A64996ACA84D534B89CE618AA7675A917763C004696030478B977000000000000000000000000000000000000000036943083"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="0"/>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Riding" value="180"/>
+      <skill id="Steward" value="140"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Medicine" value="180"/>
+      <skill id="Scouting" value="90"/>
+      <skill id="Engineering" value="140"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="battania_sword_4_t4" slot="Item0"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="imperial_robes" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenssierra" name="Sierra" age="20" voice="softspoken" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.5331" build="0.3732" key="0029280E40441004B6664673469ACBA617566DDA8626BCA4B98695A777F476C7005686030575B14C00000000000000000000000000000000000000002EB420C3"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.5331" build="0.3732" key="0029280E40441004B6664673469ACBA617566DDA8626BCA4B98695A777F476C7005686030575B14C00000000000000000000000000000000000000002EB420C3"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="150"/>
+      <skill id="OneHanded" value="100"/>
+      <skill id="Riding" value="180"/>
+      <skill id="Scouting" value="140"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Leadership" value="150"/>
+      <skill id="Tactics" value="120"/>
+      <skill id="Engineering" value="90"/>
+      <skill id="Medicine" value="130"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="imperial_scale_barding" slot="HorseHarness"/>
+        <equipment id="battania_sword_4_t4" slot="Item0"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="composite_steppe_bow" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="imperial_robes" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensmyra" name="Myra" age="21" voice="ironic" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.3819" build="0.3543" key="0013080340B400067899A7357CD428B49B66B5B3A7555A76AB58CAB3B37973A60075660307595A3500000000000000000000000000000000000000002CDC1043"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.3819" build="0.3543" key="0013080340B400067899A7357CD428B49B66B5B3A7555A76AB58CAB3B37973A60075660307595A3500000000000000000000000000000000000000002CDC1043"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="220"/>
+      <skill id="OneHanded" value="250"/>
+      <skill id="Scouting" value="150"/>
+      <skill id="Steward" value="160"/>
+      <skill id="Leadership" value="140"/>
+      <skill id="Tactics" value="90"/>
+      <skill id="Roguery" value="130"/>
+      <skill id="Athletics" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Honor" value="-1"/>
+      <Trait id="Calculating" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="imperial_scale_barding" slot="HorseHarness"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item0"/>
+        <equipment id="battania_sword_4_t4" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_noble_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensmeredith" name="Meredith" age="20" voice="curt" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.77" weight="0.3606" build="0.6175" key="0015A80F0088200CB8CC63A7793D981444D67DA7488784945EC6CA6387A26389005956030568376B00000000000000000000000000000000000000000CAC3083"/>
+      <BodyPropertiesMax version="4" age="22.77" weight="0.3606" build="0.6175" key="0015A80F0088200CB8CC63A7793D981444D67DA7488784945EC6CA6387A26389005956030568376B00000000000000000000000000000000000000000CAC3083"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="180"/>
+      <skill id="Riding" value="160"/>
+      <skill id="Scouting" value="90"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Steward" value="170"/>
+      <skill id="Medicine" value="100"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="Roguery" value="160"/>
+      <skill id="Engineering" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Calculating" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="lamellar_plate_boots" slot="Leg"/>
+        <equipment id="t2_empire_horse" slot="Horse"/>
+        <equipment id="imperial_scale_barding" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensivara" name="Ivara" age="24" voice="earnest" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.3745" build="0.8393" key="0026900A4044100961A45858AA9B3944A8BA6B6556C88A3A18B7B367A9A56667003D66030392BB8B00000000000000000000000000000000000000006C6C40C3"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.3745" build="0.8393" key="0026900A4044100961A45858AA9B3944A8BA6B6556C88A3A18B7B367A9A56667003D66030392BB8B00000000000000000000000000000000000000006C6C40C3"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="250"/>
+      <skill id="OneHanded" value="150"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Charm" value="100"/>
+      <skill id="Trade" value="0"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Scouting" value="80"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-1"/>
+      <Trait id="Calculating" value="-1"/>
+      <Trait id="Valor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="a_brass_lamellar_shoulder_b" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+        <equipment id="aserai_2haxe_3_t5" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_noble_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslydia" name="Lydia" age="23" voice="softspoken" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.3111" build="0.5197" key="0020900200B410067465E6C6588979A8D878935B668A5783323B84CA758826650078560307A33459000000000000000000000000000000000000000014DC00C3"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.3111" build="0.5197" key="0020900200B410067465E6C6588979A8D878935B668A5783323B84CA758826650078560307A33459000000000000000000000000000000000000000014DC00C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="250"/>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Athletics" value="180"/>
+      <skill id="Tactics" value="250"/>
+      <skill id="Leadership" value="290"/>
+      <skill id="Steward" value="260"/>
+      <skill id="Medicine" value="250"/>
+      <skill id="Roguery" value="150"/>
+      <skill id="Scouting" value="210"/>
+      <skill id="Engineering" value="160"/>
+      <skill id="Throwing" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_base" slot="Body"/>
+        <equipment id="ridged_northernhelm" slot="Head"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="rough_bearskin" slot="Cape"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="sturgia_old_shield_c" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_noble_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensalice" name="Alice" age="20" voice="ironic" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.3111" build="0.5197" key="0020900200B410067465E6C6588979A8D878935B668A5783323B84CA758826650078560307A33459000000000000000000000000000000000000000014DC00C3"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.3111" build="0.5197" key="0020900200B410067465E6C6588979A8D878935B668A5783323B84CA758826650078560307A33459000000000000000000000000000000000000000014DC00C3"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="250"/>
+      <skill id="Riding" value="280"/>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Scouting" value="280"/>
+      <skill id="Leadership" value="200"/>
+      <skill id="Steward" value="260"/>
+      <skill id="Medicine" value="210"/>
+      <skill id="Roguery" value="230"/>
+      <skill id="Engineering" value="180"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Honor" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_base" slot="Body"/>
+        <equipment id="ridged_northernhelm" slot="Head"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="rough_bearskin" slot="Cape"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="studded_steppe_barding" slot="HorseHarness"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="battania_sword_4_t4" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_noble_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensemerald" name="Emerald" age="19" voice="softspoken" culture="Culture.empire" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.959" build="0.8542" key="00082C0BA1B410106B16268A8984A836259C26987B875828929D57D6B9949A58005DE60305D65AA9000000000000000000000000000000000000000036AC4043"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.959" build="0.8542" key="00082C0BA1B410106B16268A8984A836259C26987B875828929D57D6B9949A58005DE60305D65AA9000000000000000000000000000000000000000036AC4043"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="250"/>
+      <skill id="Crossbow" value="280"/>
+      <skill id="TwoHanded" value="240"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Scouting" value="150"/>
+      <skill id="Leadership" value="180"/>
+      <skill id="Steward" value="200"/>
+      <skill id="Medicine" value="240"/>
+      <skill id="Roguery" value="100"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Riding" value="230"/>
+      <skill id="Charm" value="180"/>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Throwing" value="190"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="2"/>
+      <Trait id="Mercy" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_base" slot="Body"/>
+        <equipment id="ridged_northernhelm" slot="Head"/>
+        <equipment id="rough_bearskin" slot="Cape"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="crossbow_c" slot="Item0"/>
+        <equipment id="bolt_b" slot="Item1"/>
+        <equipment id="bolt_b" slot="Item2"/>
+        <equipment id="aserai_2haxe_3_t5" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_noble_woman_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenskimberly" name="Kimberly" age="20" voice="softspoken" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.5327" build="0.5815" key="0015740FCBFC2001334DAB7DCC7978DAC68D766B48B255787B35A7465394874400898603085945B300000000000000000000000000000000000000002B1C3043"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.5327" build="0.5815" key="0015740FCBFC2001334DAB7DCC7978DAC68D766B48B255787B35A7465394874400898603085945B300000000000000000000000000000000000000002B1C3043"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="200"/>
+      <skill id="Bow" value="210"/>
+      <skill id="Riding" value="180"/>
+      <skill id="Scouting" value="140"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Steward" value="130"/>
+      <skill id="Medicine" value="160"/>
+      <skill id="Engineering" value="90"/>
+      <skill id="Roguery" value="80"/>
+      <skill id="Tactics" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+      <Trait id="Valor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_cavalry_armor" slot="Body"/>
+        <equipment id="war_horse" slot="Horse"/>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="mail_shoulders" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="half_scale_barding" slot="HorseHarness"/>
+        <equipment id="steppe_war_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="battania_sword_4_t4" slot="Item2"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="aserai_villager_female_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensariel" name="Ariel" age="25" voice="softspoken" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.33" weight="0.5087" build="0.4851" key="001B540280FC0015686699A9766B2974CB35CA75794857C57E85E47567BD2AA700B786030BB754870000000000000000000000000000000000000000356430C3"/>
+      <BodyPropertiesMax version="4" age="22.33" weight="0.5087" build="0.4851" key="001B540280FC0015686699A9766B2974CB35CA75794857C57E85E47567BD2AA700B786030BB754870000000000000000000000000000000000000000356430C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="180"/>
+      <skill id="TwoHanded" value="160"/>
+      <skill id="Polearm" value="120"/>
+      <skill id="Throwing" value="80"/>
+      <skill id="Leadership" value="100"/>
+      <skill id="Steward" value="160"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Scouting" value="50"/>
+      <skill id="Riding" value="130"/>
+      <skill id="Roguery" value="90"/>
+      <skill id="Tactics" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-2"/>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_cavalry_armor" slot="Body"/>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="fortified_kite_shield" slot="Item0"/>
+        <equipment id="falchion_sword_t2" slot="Item1"/>
+        <equipment id="northern_javelin_3_t4" slot="Item2"/>
+        <equipment id="northern_javelin_3_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensvivienne" name="Vivienne" age="20" voice="curt" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.5009" build="0.6958" key="0008580280881006343298E46B49979768BA882BB715695B8B7488187C974523004A86030471986600000000000000000000000000000000000000004A8C3083"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.5009" build="0.6958" key="0008580280881006343298E46B49979768BA882BB715695B8B7488187C974523004A86030471986600000000000000000000000000000000000000004A8C3083"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="200"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Scouting" value="180"/>
+      <skill id="Leadership" value="140"/>
+      <skill id="Steward" value="150"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Tactics" value="50"/>
+      <skill id="Roguery" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="2"/>
+      <Trait id="Generosity" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgia_cavalry_armor" slot="Body"/>
+        <equipment id="sturgia_heavy_cavalary_helmet" slot="Head"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_shoulders" slot="Cape"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="northern_horsemans_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenslexi" name="Lexi" age="20" voice="curt" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.09" weight="0.3915" build="0.0993" key="000A7401401430067C689AB95585315A69AB99A926999A99D3945897337B67BA008166030887753600000000000000000000000000000000000000003AFC3083"/>
+      <BodyPropertiesMax version="4" age="22.09" weight="0.3915" build="0.0993" key="000A7401401430067C689AB95585315A69AB99A926999A99D3945897337B67BA008166030887753600000000000000000000000000000000000000003AFC3083"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="150"/>
+      <skill id="TwoHanded" value="180"/>
+      <skill id="Polearm" value="140"/>
+      <skill id="Steward" value="100"/>
+      <skill id="Leadership" value="160"/>
+      <skill id="Medicine" value="80"/>
+      <skill id="Scouting" value="120"/>
+      <skill id="Athletics" value="100"/>
+      <skill id="Tactics" value="50"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Honor" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="reinforced_kite_shield" slot="Item0"/>
+        <equipment id="falchion_sword_t2" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="fine_southern_dress" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenselliott" name="Elliott" age="20" voice="curt" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.7691" build="0.0583" key="001E2804C0B42003857A83748968A4972A5927AA7AB5B32C6ABABA59A557838A0031C60303BE93390000000000000000000000000000000000000000325C1043"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.7691" build="0.0583" key="001E2804C0B42003857A83748968A4972A5927AA7AB5B32C6ABABA59A557838A0031C60303BE93390000000000000000000000000000000000000000325C1043"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="150"/>
+      <skill id="Bow" value="140"/>
+      <skill id="OneHanded" value="120"/>
+      <skill id="Scouting" value="80"/>
+      <skill id="Steward" value="80"/>
+      <skill id="Leadership" value="120"/>
+      <skill id="Medicine" value="150"/>
+      <skill id="Engineering" value="90"/>
+      <skill id="Tactics" value="50"/>
+      <skill id="Athletics" value="70"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+      <Trait id="Generosity" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="half_scale_barding" slot="HorseHarness"/>
+        <equipment id="battania_sword_4_t4" slot="Item0"/>
+        <equipment id="northern_scouts_shield" slot="Item1"/>
+        <equipment id="steppe_war_bow" slot="Item2"/>
+        <equipment id="bodkin_arrows_a" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="fine_southern_dress" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenskora" name="Kora" age="23" voice="softspoken" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.1125" build="0.2852" key="002BA4028058301224599DA64B94D5A53CA649A76D2D88A748B57A758B9D2A55002426030224B65C000000000000000000000000000000000000000022543003"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.1125" build="0.2852" key="002BA4028058301224599DA64B94D5A53CA649A76D2D88A748B57A758B9D2A55002426030224B65C000000000000000000000000000000000000000022543003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="150"/>
+      <skill id="Riding" value="140"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Steward" value="120"/>
+      <skill id="Leadership" value="160"/>
+      <skill id="Tactics" value="80"/>
+      <skill id="OneHanded" value="120"/>
+      <skill id="Athletics" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="1"/>
+      <Trait id="Calculating" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_scale_armor" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="half_scale_barding" slot="HorseHarness"/>
+        <equipment id="battania_sword_4_t4" slot="Item0"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item1"/>
+        <equipment id="chivalric_kite_shield" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="fine_southern_dress" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensalessia" name="Alessia" age="19" voice="earnest" culture="Culture.sturgia" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.6827" build="0.8757" key="000D700080FC10022F6C5422D9769D3996539B29AA84A75A994D897777BC977C003DA60303865CC20000000000000000000000000000000000000000446440C3"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.6827" build="0.8757" key="000D700080FC10022F6C5422D9769D3996539B29AA84A75A994D897777BC977C003DA60303865CC20000000000000000000000000000000000000000446440C3"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="250"/>
+      <skill id="TwoHanded" value="200"/>
+      <skill id="Polearm" value="220"/>
+      <skill id="Athletics" value="150"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Leadership" value="270"/>
+      <skill id="Steward" value="220"/>
+      <skill id="Medicine" value="210"/>
+      <skill id="Engineering" value="190"/>
+      <skill id="Scouting" value="100"/>
+      <skill id="Roguery" value="180"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Valor" value="-2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_fortified" slot="Body"/>
+        <equipment id="heavy_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="battanian_chainmail_shoulder_b" slot="Cape"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="battle_axe_t4" slot="Item0"/>
+        <equipment id="strapped_round_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="plain_dress" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensapril" name="April" age="19" voice="earnest" culture="Culture.sturgia" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.7328" build="0.2809" key="00101C0FC070200484787E4C658A64B4AD8656B5882B2764868BE37A85856A3B00A4B6030AE46477000000000000000000000000000000000000000041444003"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.7328" build="0.2809" key="00101C0FC070200484787E4C658A64B4AD8656B5882B2764868BE37A85856A3B00A4B6030AE46477000000000000000000000000000000000000000041444003"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="250"/>
+      <skill id="Crossbow" value="240"/>
+      <skill id="Athletics" value="200"/>
+      <skill id="Tactics" value="170"/>
+      <skill id="Scouting" value="80"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Leadership" value="280"/>
+      <skill id="Medicine" value="260"/>
+      <skill id="OneHanded" value="180"/>
+      <skill id="Charm" value="180"/>
+      <skill id="Engineering" value="250"/>
+      <skill id="Roguery" value="140"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="-2"/>
+      <Trait id="Valor" value="2"/>
+      <Trait id="Mercy" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_base" slot="Body"/>
+        <equipment id="heavy_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="battanian_chainmail_shoulder_b" slot="Cape"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="noble_long_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="battle_axe_t4" slot="Item2"/>
+        <equipment id="strapped_round_shield" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensjenna" name="Jenna" age="24" voice="curt" culture="Culture.sturgia" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.1966" build="0.4654" key="00001C040000100E9A585785856CB4883DD4C493687967A1A776798B5497A7B200B736030B57C77300000000000000000000000000000000000000004B644083"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.1966" build="0.4654" key="00001C040000100E9A585785856CB4883DD4C493687967A1A776798B5497A7B200B736030B57C77300000000000000000000000000000000000000004B644083"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="280"/>
+      <skill id="OneHanded" value="210"/>
+      <skill id="Polearm" value="180"/>
+      <skill id="Athletics" value="200"/>
+      <skill id="Tactics" value="250"/>
+      <skill id="Scouting" value="220"/>
+      <skill id="Steward" value="280"/>
+      <skill id="Leadership" value="300"/>
+      <skill id="Medicine" value="220"/>
+      <skill id="Engineering" value="230"/>
+      <skill id="Roguery" value="140"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="sturgian_lamellar_base" slot="Body"/>
+        <equipment id="heavy_nasalhelm_over_imperial_mail" slot="Head"/>
+        <equipment id="lordly_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="battanian_chainmail_shoulder_b" slot="Cape"/>
+        <equipment id="avalanche_2haxe" slot="Item0"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="sturgia_boots_a" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenssabrina" name="Sabrina" age="20" voice="earnest" culture="Culture.empire" default_group="Ranged" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.3515" build="0.3785" key="0029140FC0582005AB79D857C8C9691918A5421468C7467D75BC3ABB7D49D75800D656030DA59B9C000000000000000000000000000000000000000023AC1043"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.3515" build="0.3785" key="0029140FC0582005AB79D857C8C9691918A5421468C7467D75BC3ABB7D49D75800D656030DA59B9C000000000000000000000000000000000000000023AC1043"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="280"/>
+      <skill id="Crossbow" value="240"/>
+      <skill id="TwoHanded" value="160"/>
+      <skill id="Tactics" value="200"/>
+      <skill id="Scouting" value="240"/>
+      <skill id="Leadership" value="270"/>
+      <skill id="Steward" value="250"/>
+      <skill id="Medicine" value="230"/>
+      <skill id="Engineering" value="210"/>
+      <skill id="Roguery" value="180"/>
+      <skill id="Athletics" value="90"/>
+      <skill id="Riding" value="140"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2"/>
+      <Trait id="Honor" value="2"/>
+      <Trait id="Mercy" value="-2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="noble_long_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="aserai_2haxe_3_t5" slot="Item3"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="laced_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensberenice" name="Berenice" age="20" voice="curt" culture="Culture.empire" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.3515" build="0.7438" key="000D580D80CC20015A3926A76168B49B636747C58C287195B9B83A58C1469695007B5603077A9D5900000000000000000000000000000000000000004ADC00C3"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.3515" build="0.7438" key="000D580D80CC20015A3926A76168B49B636747C58C287195B9B83A58C1469695007B5603077A9D5900000000000000000000000000000000000000004ADC00C3"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="240"/>
+      <skill id="OneHanded" value="180"/>
+      <skill id="Polearm" value="150"/>
+      <skill id="Throwing" value="200"/>
+      <skill id="Athletics" value="170"/>
+      <skill id="Tactics" value="280"/>
+      <skill id="Scouting" value="230"/>
+      <skill id="Leadership" value="210"/>
+      <skill id="Steward" value="270"/>
+      <skill id="Medicine" value="230"/>
+      <skill id="Engineering" value="190"/>
+      <skill id="Roguery" value="170"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+        <equipment id="execution_axe" slot="Item0"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item1"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item2"/>
+        <equipment id="northern_throwing_axe_1_t1" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="laced_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensshaina" name="Shaina" age="20" voice="ironic" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.3515" build="0.4803" key="00008804C0A0100588BB7BB7DC4C87B86A475B6338D81499B7949835748394B7005756030570947B00000000000000000000000000000000000000006EA42003"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.3515" build="0.4803" key="00008804C0A0100588BB7BB7DC4C87B86A475B6338D81499B7949835748394B7005756030570947B00000000000000000000000000000000000000006EA42003"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="230"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Scouting" value="230"/>
+      <skill id="Leadership" value="260"/>
+      <skill id="Steward" value="240"/>
+      <skill id="Medicine" value="200"/>
+      <skill id="Engineering" value="140"/>
+      <skill id="Roguery" value="240"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Athletics" value="90"/>
+      <skill id="OneHanded" value="120"/>
+    </skills>
+    <Traits>
+      <Trait id="Valor" value="2"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="imperial_lamellar" slot="Body"/>
+        <equipment id="empire_guarded_lord_helmet" slot="Head"/>
+        <equipment id="lamellar_plate_gauntlets" slot="Gloves"/>
+        <equipment id="battania_shoulder_furr" slot="Cape"/>
+        <equipment id="decorated_imperial_boots" slot="Leg"/>
+        <equipment id="storm_charger" slot="Horse"/>
+        <equipment id="imperial_scale_barding" slot="HorseHarness"/>
+        <equipment id="steppe_war_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="light_horsemans_kite_shield" slot="Item2"/>
+        <equipment id="battania_sword_4_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenssharron" name="Sharron" age="19" voice="ironic" culture="Culture.battania" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.5" weight="0.1674" build="0.5135" key="00158804004410087A53EA87C2B5AE876697795B986A6765876D7279AA69ABA9003836030396C2D20000000000000000000000000000000000000000726C0043"/>
+      <BodyPropertiesMax version="4" age="22.5" weight="0.1674" build="0.5135" key="00158804004410087A53EA87C2B5AE876697795B986A6765876D7279AA69ABA9003836030396C2D20000000000000000000000000000000000000000726C0043"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="230"/>
+      <skill id="Riding" value="250"/>
+      <skill id="Scouting" value="180"/>
+      <skill id="Leadership" value="240"/>
+      <skill id="Steward" value="220"/>
+      <skill id="Charm" value="190"/>
+      <skill id="Medicine" value="250"/>
+      <skill id="Engineering" value="270"/>
+      <skill id="Roguery" value="90"/>
+      <skill id="Tactics" value="50"/>
+      <skill id="TwoHanded" value="140"/>
+      <skill id="Athletics" value="90"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="-2"/>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_d" slot="Body"/>
+        <equipment id="empire_crown_v2" slot="Head"/>
+        <equipment id="battania_noble_bracers" slot="Gloves"/>
+        <equipment id="armored_bearskin" slot="Cape"/>
+        <equipment id="strapped_mail_chausses" slot="Leg"/>
+        <equipment id="steppe_war_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="western_2hsword_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenselucia" name="Elucia" age="24" voice="ironic" culture="Culture.battania" default_group="Infantry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.6304" build="0.315" key="001B440FC0A0201048B9CDB69728978A94476A398977A55989D76C8A945DA9B90085960308AA89D6000000000000000000000000000000000000000039140043"/>
+      <BodyPropertiesMax version="4" age="22.6" weight="0.6304" build="0.315" key="001B440FC0A0201048B9CDB69728978A94476A398977A55989D76C8A945DA9B90085960308AA89D6000000000000000000000000000000000000000039140043"/>
+    </face>
+    <skills>
+      <skill id="TwoHanded" value="260"/>
+      <skill id="OneHanded" value="190"/>
+      <skill id="Polearm" value="230"/>
+      <skill id="Throwing" value="190"/>
+      <skill id="Scouting" value="140"/>
+      <skill id="Steward" value="240"/>
+      <skill id="Leadership" value="260"/>
+      <skill id="Medicine" value="190"/>
+      <skill id="Roguery" value="230"/>
+      <skill id="Tactics" value="240"/>
+      <skill id="Athletics" value="150"/>
+    </skills>
+    <Traits>
+      <Trait id="Generosity" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_d" slot="Body"/>
+        <equipment id="empire_crown_west" slot="Head"/>
+        <equipment id="battania_noble_bracers" slot="Gloves"/>
+        <equipment id="armored_bearskin" slot="Cape"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="sturgia_2haxe_1_t4" slot="Item0"/>
+        <equipment id="northern_javelin_3_t4" slot="Item1"/>
+        <equipment id="northern_javelin_3_t4" slot="Item2"/>
+        <equipment id="northern_javelin_3_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensrina" name="Rina" age="22" voice="softspoken" culture="Culture.battania" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3912" build="0.4815" key="0031440A44E40005898DB6215899861963C45A919976887798AB98A79387889C00376603038C23D30000000000000000000000000000000000000000345C0003"/>
+      <BodyPropertiesMax version="4" age="22.6" weight="0.3912" build="0.4815" key="0031440A44E40005898DB6215899861963C45A919976887798AB98A79387889C00376603038C23D30000000000000000000000000000000000000000345C0003"/>
+    </face>
+    <skills>
+      <skill id="Polearm" value="250"/>
+      <skill id="Riding" value="230"/>
+      <skill id="Scouting" value="220"/>
+      <skill id="Steward" value="190"/>
+      <skill id="Leadership" value="280"/>
+      <skill id="Medicine" value="240"/>
+      <skill id="Engineering" value="150"/>
+      <skill id="Tactics" value="100"/>
+      <skill id="Athletics" value="120"/>
+      <skill id="Roguery" value="240"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="battanian_chainmail_armor_d" slot="Body"/>
+        <equipment id="empire_crown_west" slot="Head"/>
+        <equipment id="battania_noble_bracers" slot="Gloves"/>
+        <equipment id="armored_bearskin" slot="Cape"/>
+        <equipment id="plated_strip_boots" slot="Leg"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="noble_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensliberty" name="Liberty" age="18" voice="curt" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.4462" build="0.5499" key="001BA406002C2004CA79C885776767A728985458868AA453B263A654E6CB93970078760307694B71000000000000000000000000000000000000000022EC2003"/>
+      <BodyPropertiesMax version="4" age="22.6" weight="0.4462" build="0.5499" key="001BA406002C2004CA79C885776767A728985458868AA453B263A654E6CB93970078760307694B71000000000000000000000000000000000000000022EC2003"/>
+    </face>
+    <skills>
+      <skill id="OneHanded" value="230"/>
+      <skill id="Riding" value="240"/>
+      <skill id="Scouting" value="230"/>
+      <skill id="Steward" value="260"/>
+      <skill id="Leadership" value="240"/>
+      <skill id="Medicine" value="210"/>
+      <skill id="Engineering" value="190"/>
+      <skill id="Roguery" value="190"/>
+      <skill id="Tactics" value="180"/>
+      <skill id="Athletics" value="190"/>
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2"/>
+      <Trait id="Calculating" value="-1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="noble_horse" slot="Horse"/>
+        <equipment id="northern_ring_barding" slot="HorseHarness"/>
+        <equipment id="empire_crown_north" slot="Head"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="battania_sword_4_t4" slot="Item0"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="empire_dress" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidensartemis" name="Artemis" age="21" voice="curt" culture="Culture.empire" default_group="Cavalry" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.7889" build="0.3343" key="0005B8054044300F679B674538966599D7E993A682595688859754C93958853A0085C6030896D7C400000000000000000000000000000000000000003CFC3003"/>
+      <BodyPropertiesMax version="4" age="22.6" weight="0.7889" build="0.3343" key="0005B8054044300F679B674538966599D7E993A682595688859754C93958853A0085C6030896D7C400000000000000000000000000000000000000003CFC3003"/>
+    </face>
+    <skills>
+      <skill id="Riding" value="230"/>
+      <skill id="Polearm" value="240"/>
+      <skill id="Scouting" value="190"/>
+      <skill id="Leadership" value="240"/>
+      <skill id="Steward" value="270"/>
+      <skill id="Medicine" value="230"/>
+      <skill id="Engineering" value="210"/>
+      <skill id="Tactics" value="120"/>
+      <skill id="Athletics" value="90"/>
+      <skill id="Roguery" value="180"/>
+      <skill id="Crafting" value="100"/>
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="khuzait_lance_3_t5" slot="Item0"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="imperial_studded_strip_shoulders" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="heavy_horsemans_kite_shield" slot="Item1"/>
+        <equipment id="battania_sword_4_t4" slot="Item2"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="vlandian_woman_dress" slot="Body"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spcwandererzzmercenarymaidenschristina" name="Christina" age="23" voice="earnest" culture="Culture.empire" default_group="HorseArcher" is_female="true" is_template="false" is_hero="true" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.6" weight="0.3193" build="0.7059" key="001E10028CE4100A47B7939A29441294635589967B99465768772C98ABBA984C003B560303453C7C000000000000000000000000000000000000000018642083"/>
+      <BodyPropertiesMax version="4" age="22.6" weight="0.3193" build="0.7059" key="001E10028CE4100A47B7939A29441294635589967B99465768772C98ABBA984C003B560303453C7C000000000000000000000000000000000000000018642083"/>
+    </face>
+    <skills>
+      <skill id="Bow" value="260"/>
+      <skill id="Riding" value="230"/>
+      <skill id="OneHanded" value="160"/>
+      <skill id="Scouting" value="205"/>
+      <skill id="Leadership" value="240"/>
+      <skill id="Steward" value="230"/>
+      <skill id="Medicine" value="210"/>
+      <skill id="Engineering" value="180"/>
+      <skill id="Roguery" value="190"/>
+      <skill id="Tactics" value="160"/>
+      <skill id="Athletics" value="140"/>
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1"/>
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment id="legionary_mail" slot="Body"/>
+        <equipment id="imperial_nasal_helm" slot="Head"/>
+        <equipment id="pauldron_cape_a" slot="Cape"/>
+        <equipment id="reinforced_mail_mitten" slot="Gloves"/>
+        <equipment id="mail_chausses" slot="Leg"/>
+        <equipment id="noble_horse" slot="Horse"/>
+        <equipment id="battania_horse_harness_scaled" slot="HorseHarness"/>
+        <equipment id="steppe_war_bow" slot="Item0"/>
+        <equipment id="bodkin_arrows_a" slot="Item1"/>
+        <equipment id="bodkin_arrows_a" slot="Item2"/>
+        <equipment id="battania_sword_4_t4" slot="Item3"/>
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment id="cut_dress_with_pouch" slot="Body"/>
+        <equipment id="ladys_shoe" slot="Leg"/>
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

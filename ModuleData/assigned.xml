@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+  <Hero id="spcwandererzzmercenarymaidensluna" is_noble="true" faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidensnova" is_noble="true" faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidenssapphire" is_noble="true" faction="Faction.clan_fireblades" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidenstreasure" is_noble="true" faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenspearl" is_noble="true" faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenskairi" is_noble="true" faction="Faction.clan_byzantium" />
+  
+  <Hero id="spcwandererzzmercenarymaidensflora" is_noble="true" faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidenswillow" is_noble="true" faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidensserenity" is_noble="true" faction="Faction.clan_snowfury" />
+  
+  <Hero id="spcwandererzzmercenarymaidensjade" is_noble="true" faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidensfaith" is_noble="true" faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidenstaylor" is_noble="true" faction="Faction.clan_originals" />	
+  
+  <Hero id="spcwandererzzmercenarymaidensharmony" is_noble="true" faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidensjune" is_noble="true" faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidensriver" is_noble="true" faction="Faction.clan_emeraldvalor" />
+  
+  <Hero id="spcwandererzzmercenarymaidensamy" is_noble="true" faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidenstrinity" is_noble="true" faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidensphoenix" is_noble="true" faction="Faction.clan_shieldsofserenity" />
+  
+  <Hero id="spcwandererzzmercenarymaidenseretria" is_noble="true" faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidensamberle" is_noble="true" faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidenslyria" is_noble="true" faction="Faction.clan_thefourlands" />
+  
+  <Hero id="spcwandererzzmercenarymaidensgenesis" is_noble="true" faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidensmelody" is_noble="true" faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidensximena" is_noble="true" faction="Faction.clan_angelicexiles" />
+  
+  <Hero id="spcwandererzzmercenarymaidensgravelynn" is_noble="true" faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidenssafiria" is_noble="true" faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidensrobina" is_noble="true" faction="Faction.clan_stormhavensforsaken" />
+  
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensscarlett" is_noble="true" faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenszoey" is_noble="true" faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenselena" is_noble="true" faction="Faction.clan_terrorofthesteppes" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidenslillian" is_noble="true" faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidenslucy" is_noble="true" faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidensaaliyah" is_noble="true" faction="Faction.clan_myst" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensnevaeh" is_noble="true" faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidensiris" is_noble="true" faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidensjosie" is_noble="true" faction="Faction.clan_desertstorm" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensesther" is_noble="true" faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidensemersyn" is_noble="true" faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidensember" is_noble="true" faction="Faction.clan_khanschosen" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensbrigitte" is_noble="true" faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidenslisette" is_noble="true" faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidensselena" is_noble="true" faction="Faction.clan_hammerandsword" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenslennon" is_noble="true" faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidensdemi" is_noble="true" faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidensveronica" is_noble="true" faction="Faction.clan_steelorder" />
+  
+  <Hero id="spcwandererzzmercenarymaidenskate" is_noble="true" faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenslegacy" is_noble="true" faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenssierra" is_noble="true" faction="Faction.clan_fury" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensmyra" is_noble="true" faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidensmeredith" is_noble="true" faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidensivara" is_noble="true" faction="Faction.clan_roguemaidens" />
+  
+  <Hero id="spcwandererzzmercenarymaidenslydia" is_noble="true" faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidensalice" is_noble="true" faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidensemerald" is_noble="true" faction="Faction.clan_kingsguard" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenskimberly" is_noble="true" faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidensariel" is_noble="true" faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidensvivienne" is_noble="true" faction="Faction.clan_immortals" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenslexi" is_noble="true" faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenselliott" is_noble="true" faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenskora" is_noble="true" faction="Faction.clan_crusadersreborn" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensalessia" is_noble="true" faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidensapril" is_noble="true" faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidensjenna" is_noble="true" faction="Faction.clan_valkyrie" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenssabrina" is_noble="true" faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidensberenice" is_noble="true" faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidensshaina" is_noble="true" faction="Faction.clan_legion" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenssharron" is_noble="true" faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidenselucia" is_noble="true" faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidensrina" is_noble="true" faction="Faction.clan_keepersofthewoods" />
+  
+  
+    <Hero id="spcwandererzzmercenarymaidensliberty" is_noble="true" faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidensartemis" is_noble="true" faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidenschristina" is_noble="true" faction="Faction.clan_angelsofdeath" />
+
+</Heroes>

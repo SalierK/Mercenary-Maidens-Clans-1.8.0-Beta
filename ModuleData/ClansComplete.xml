@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_fireblades"
+           name="Fireblades"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensluna"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.508.144.116.586.586.764.764.1.1.-91.302.142.116.586.586.764.764.1.1.-91.302.142.116.580.580.764.764.1.1.0.302.142.116.586.586.764.764.1.1.180.302.142.116.586.586.764.764.1.1.89" />
+	
+	  <Faction id="clan_byzantium"   
+           name="Byzantium"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenstreasure"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.102.83.144.580.580.764.764.1.1.0" />
+		   
+		   	  <Faction id="clan_snowfury"
+           name="Snowfury"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensflora"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.200.16.119.580.580.764.764.1.1.180.200.16.119.580.580.764.764.1.0.180" />
+		   
+		   		   	  <Faction id="clan_originals"
+           name="Originals"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensjade"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.437.116.83.580.580.764.764.1.0.180" />
+		   
+		   		   	  <Faction id="clan_emeraldvalor"
+           name="Emerald Valor"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensharmony"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.319.126.120.580.580.764.764.1.1.0.306.126.120.580.580.544.714.1.1.0.306.126.120.580.580.984.714.1.0.0" />
+		   
+		   		   	  <Faction id="clan_shieldsofserenity"
+           name="Shields of Serenity"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensamy"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.316.38.142.450.450.764.889.1.1.0.340.38.142.450.450.764.539.1.1.0" />
+		   
+		   		   		   	  <Faction id="clan_thefourlands"
+           name="The Four Lands"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensamberle"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.503.82.83.580.580.764.764.1.1.0.415.88.132.580.580.764.764.1.1.0" />
+		   
+		   		   		   	  <Faction id="clan_angelicexiles"
+           name="Angelic Exiles"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensgenesis"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.436.83.116.580.580.764.764.1.1.0" />
+		   
+		   		   		   	  <Faction id="clan_stormhavensforsaken"
+           name="Stormhavens Forsaken"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensgravelynn"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.334.4.116.580.580.764.764.1.1.0.118.148.116.200.200.855.526.1.0.0" />
+		   
+		   
+		   
+		   
+		   
+		   
+		     <Faction id="clan_terrorofthesteppes"
+           name="Terror of the steppes"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensscarlett"
+           culture="Culture.aserai"
+           super_faction="Kingdom.aserai"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.156.84.123.580.580.764.764.1.0.0" />
+		   
+		     <Faction id="clan_myst"
+           name="Myst"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenslillian"
+           culture="Culture.aserai"
+           super_faction="Kingdom.aserai"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.223.120.129.580.580.764.764.1.0.0" />
+		   
+		     <Faction id="clan_desertstorm"
+           name="Desertstorm"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensnevaeh"
+           culture="Culture.khuzait"
+           super_faction="Kingdom.khuzait"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.155.80.145.580.580.764.764.1.0.0" />
+		   
+		     <Faction id="clan_khanschosen"
+           name="Khans Chosen"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensesther"
+           culture="Culture.khuzait"
+           super_faction="Kingdom.khuzait"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.422.0.116.580.580.764.764.1.0.0" />
+		   
+		     <Faction id="clan_hammerandsword"
+           name="Hammer and Sword"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensbrigitte"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.504.140.25.580.580.764.764.1.1.0.309.140.25.580.580.764.764.1.0.0.309.140.25.580.580.764.764.1.1.0" />
+		   
+		     <Faction id="clan_steelorder"
+           name="Steel order"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenslennon"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.106.150.116.580.580.764.764.1.1.0" />
+		   
+		     <Faction id="clan_fury"
+           name="Fury"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenskate"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.423.143.116.580.580.764.764.1.1.0.105.83.116.580.580.764.764.1.1.0" />
+		   
+		   
+		    <Faction id="clan_roguemaidens"
+           name="Rogue Maidens"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensmyra"
+           culture="Culture.empire"
+           super_faction="Kingdom.battania"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.404.13.83.580.580.764.764.1.0.0.139.13.83.580.580.764.764.1.0.0" />
+		   
+		     <Faction id="clan_kingsguard"
+           name="Kingsguard"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidenslydia"
+           culture="Culture.empire"
+           super_faction="Kingdom.vlandia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.318.132.123.650.650.764.764.1.0.0.327.132.123.400.400.764.694.1.0.0" />
+		   
+		   
+		     <Faction id="clan_immortals"
+           name="Immortals"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenskimberly"
+           culture="Culture.empire"
+           super_faction="Kingdom.khuzait"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.457.83.116.580.580.764.764.1.0.0.435.83.116.580.580.764.764.1.0.0" />
+		   
+		   
+		     <Faction id="clan_crusadersreborn"
+           name="Crusaders Reborn"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidenslexi"
+           culture="Culture.empire"
+           super_faction="Kingdom.aserai"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.218.83.116.580.580.764.764.1.0.0.206.83.116.580.580.764.764.1.0.0" />
+		   
+		   
+		     <Faction id="clan_valkyrie"
+           name="Valkyrie"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensalessia"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.432.116.83.580.580.654.764.1.1.0.434.83.116.580.580.874.764.1.0.0" />
+		   
+		   
+		   
+		     <Faction id="clan_legion"
+           name="Legion"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidenssabrina"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.329.75.6.580.580.764.764.1.0.0" />
+		   
+		   
+		   		     <Faction id="clan_keepersofthewoods"
+           name="Keepers of the Woods"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidenssharron"
+           culture="Culture.battania"
+           super_faction="Kingdom.empire_s"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.331.120.126.740.740.764.764.1.0.0.203.120.126.740.740.764.764.1.0.0" />
+		   
+		   
+		   		     <Faction id="clan_angelsofdeath"
+           name="Angels of Death"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensliberty"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.461.116.83.730.730.764.764.1.0.0.440.83.116.730.730.764.764.1.0.0" />
+		   
+		   
+		   
+		   
+		   	  <Faction id="clan_trident"   
+           name="Trident"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtraiyana"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.empire"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.428.132.142.730.730.764.764.1.0.0.308.132.142.730.730.777.760.1.0.0" />
+		   
+		   	  <Faction id="clan_blackplague"
+           name="Black Plague"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtraisis"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.212.126.116.730.730.764.764.1.0.0" />
+		   
+		   		   	  <Faction id="clan_blacklegion"
+           name="Black Legion"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtrabrielle"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.508.117.116.730.730.764.764.1.0.0.161.126.116.730.730.764.764.1.0.0" />
+		   
+		   		   	  <Faction id="clan_vanguard"
+           name="Vanguard"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtragiselle"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.khuzait"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.423.90.116.730.730.764.764.1.0.0.440.152.116.730.730.764.764.1.0.0" />
+		   
+		   		   	  <Faction id="clan_laststand"
+           name="Last Stand"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtraalyssa"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.306.116.116.730.730.747.764.1.0.30.306.116.116.730.730.781.764.1.1.-30.328.118.116.730.730.764.764.1.0.0" />
+		   
+		   		   		   	  <Faction id="clan_titans"
+           name="Titans"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensxtramaria"
+           culture="Culture.empire"
+           super_faction="Kingdom.aserai"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.462.118.116.730.730.764.764.1.0.0" />
+		   
+		   		   		   	  <Faction id="clan_skyfall"
+           name="Skyfall"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtrayamira"
+           culture="Culture.empire"
+           super_faction="Kingdom.vlandia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.500.3.116.730.730.764.764.1.0.0.107.3.116.730.730.764.764.1.0.0" />
+		   
+		   		   		   	  <Faction id="clan_nomercy"
+           name="No Mercy"
+           tier="6"
+           owner="Hero.spcwandererzzmercenarymaidensxtrarylie"
+           culture="Culture.aserai"
+           super_faction="Kingdom.sturgia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.333.119.116.500.500.764.764.1.0.0" />
+		   
+		   
+		   
+		   
+		   
+		   
+		     <Faction id="clan_deathfromabove"
+           name="Death From Above"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtramyrthe"
+           culture="Culture.empire"
+           super_faction="Kingdom.sturgia"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.502.84.116.500.500.764.764.1.0.0.119.84.116.500.500.764.764.1.0.0" />
+		   
+		     <Faction id="clan_conquistadors"
+           name="Conquistadors"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtramika"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.empire"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.421.84.116.500.500.764.764.1.0.0.300.84.116.500.500.764.764.1.0.0" />
+		   
+		     <Faction id="clan_knighthood"
+           name="Knighthood"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtrahannah"
+           culture="Culture.aserai"
+           super_faction="Kingdom.empire_s"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.205.83.116.500.500.764.764.1.0.0.205.83.116.500.500.764.764.1.1.0.160.84.116.500.500.764.764.1.0.0" />
+		   
+		     <Faction id="clan_heroesoftheempire"
+           name="Heroes of the Empire"
+           tier="4"
+           owner="Hero.spcwandererzzmercenarymaidensxtradana"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="19.35.19.1836.1836.771.782.1.0.-30.324.84.116.500.500.764.764.1.0.0.302.84.116.500.500.764.764.1.0.35.302.84.116.500.500.764.764.1.1.325.337.84.116.500.500.764.764.1.0.0" />
+
+
+		   
+</Factions>

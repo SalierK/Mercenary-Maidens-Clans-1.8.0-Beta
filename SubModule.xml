@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Mercenary Maidens"/>
+	<Id value = "MercenaryMaidens"/>
+	<Version value = "e0.9.1"/>
+	<DefaultModule value="false"/>
+	<SingleplayerModule value="true"/>
+	<DependedModules>
+		<DependedModule Id="Native" />
+    	<DependedModule Id="SandBoxCore" />
+    	<DependedModule Id="Sandbox" />
+    	<DependedModule Id="StoryMode" />
+    	<DependedModule Id="CustomBattle" />
+	</DependedModules>
+    <SubModules/>
+    <Xmls>
+    	<XmlNode>               
+			<XmlName id="NPCCharacters" path="StattsComplete"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode> 
+		<XmlName id="Heroes" path="AssignedComplete"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>                
+			<XmlName id="Factions" path="ClansComplete"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode> 
+    </Xmls>
+</Module>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+  <Hero id="spcwandererzzmercenarymaidensluna"  faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidensnova"  faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidenssapphire"  faction="Faction.clan_fireblades" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletehenry"  faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidenscompletechristian"  faction="Faction.clan_fireblades" />
+  <Hero id="spcwandererzzmercenarymaidenscompletecarson"  faction="Faction.clan_fireblades" />
+    <Hero id="spcwandererzzmercenarymaidenscompletepaityn"  faction="Faction.clan_fireblades" />
+
+  
+
+  
+  <Hero id="spcwandererzzmercenarymaidenstreasure"  faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenspearl"  faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenskairi"  faction="Faction.clan_byzantium" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletedamian"  faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenscompletedavid"  faction="Faction.clan_byzantium" />
+  <Hero id="spcwandererzzmercenarymaidenscompletestefan"  faction="Faction.clan_byzantium" />
+    <Hero id="spcwandererzzmercenarymaidenscompletemaryjane"  faction="Faction.clan_byzantium" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensflora"  faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidenswillow"  faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidensserenity"  faction="Faction.clan_snowfury" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletemart"  faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidenscompletecaleb"  faction="Faction.clan_snowfury" />
+  <Hero id="spcwandererzzmercenarymaidenscompletedominick"  faction="Faction.clan_snowfury" />
+    <Hero id="spcwandererzzmercenarymaidenscompletecassidy"  faction="Faction.clan_snowfury" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensjade"  faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidensfaith"  faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidenstaylor"  faction="Faction.clan_originals" />
+
+  <Hero id="spcwandererzzmercenarymaidenscompletenicolas"  faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidenscompletealfred"  faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteharold"  faction="Faction.clan_originals" />
+  <Hero id="spcwandererzzmercenarymaidenscompletemakena"  faction="Faction.clan_originals" />
+
+  <Hero id="spcwandererzzmercenarymaidensharmony"  faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidensjune"  faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidensriver"  faction="Faction.clan_emeraldvalor" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelance"  faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidenscompletelukas"  faction="Faction.clan_emeraldvalor" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteweston"  faction="Faction.clan_emeraldvalor" />
+    <Hero id="spcwandererzzmercenarymaidenscompletemaribel"  faction="Faction.clan_emeraldvalor" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensamy"  faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidenstrinity"  faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidensphoenix"  faction="Faction.clan_shieldsofserenity" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletechase"  faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteryder"  faction="Faction.clan_shieldsofserenity" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteashton"  faction="Faction.clan_shieldsofserenity" />
+    <Hero id="spcwandererzzmercenarymaidenscompletedanika"  faction="Faction.clan_shieldsofserenity" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidenseretria"  faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidensamberle"  faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidenslyria"  faction="Faction.clan_thefourlands" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletekenneth"  faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidenscompletezane"  faction="Faction.clan_thefourlands" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteronan"  faction="Faction.clan_thefourlands" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteyesenia"  faction="Faction.clan_thefourlands" />
+	
+  
+  <Hero id="spcwandererzzmercenarymaidensgenesis"  faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidensmelody"  faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidensximena"  faction="Faction.clan_angelicexiles" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletecody"  faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidenscompletespencer"  faction="Faction.clan_angelicexiles" />
+  <Hero id="spcwandererzzmercenarymaidenscompletegunner"  faction="Faction.clan_angelicexiles" />
+    <Hero id="spcwandererzzmercenarymaidenscompletecarleigh"  faction="Faction.clan_angelicexiles" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensgravelynn"  faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidenssafiria"  faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidensrobina"  faction="Faction.clan_stormhavensforsaken" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletetanner"  faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidenscompletefernando"  faction="Faction.clan_stormhavensforsaken" />
+  <Hero id="spcwandererzzmercenarymaidenscompletetyson"  faction="Faction.clan_stormhavensforsaken" />
+    <Hero id="spcwandererzzmercenarymaidenscompleterory"  faction="Faction.clan_stormhavensforsaken" />
+
+  
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensscarlett"  faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenszoey"  faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenselena"  faction="Faction.clan_terrorofthesteppes" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompleteclark"  faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenscompletesullivan"  faction="Faction.clan_terrorofthesteppes" />
+  <Hero id="spcwandererzzmercenarymaidenscompletetroy"  faction="Faction.clan_terrorofthesteppes" />
+    <Hero id="spcwandererzzmercenarymaidenscompletesarai"  faction="Faction.clan_terrorofthesteppes" />
+
+
+  
+  <Hero id="spcwandererzzmercenarymaidenslillian"  faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidenslucy"  faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidensaaliyah"  faction="Faction.clan_myst" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletematthias"  faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidenscompletekyson"  faction="Faction.clan_myst" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteayaan"  faction="Faction.clan_myst" />
+    <Hero id="spcwandererzzmercenarymaidenscompletejamya"  faction="Faction.clan_myst" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensnevaeh"  faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidensiris"  faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidensjosie"  faction="Faction.clan_desertstorm" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletedax"  faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidenscompletememphis"  faction="Faction.clan_desertstorm" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteizaiah"  faction="Faction.clan_desertstorm" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteshea"  faction="Faction.clan_desertstorm" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensesther"  faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidensemersyn"  faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidensember"  faction="Faction.clan_khanschosen" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletearmando"  faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidenscompletezachariah"  faction="Faction.clan_khanschosen" />
+  <Hero id="spcwandererzzmercenarymaidenscompletejaime"  faction="Faction.clan_khanschosen" />
+    <Hero id="spcwandererzzmercenarymaidenscompletekali"  faction="Faction.clan_khanschosen" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensbrigitte"  faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidenslisette"  faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidensselena"  faction="Faction.clan_hammerandsword" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelawrence"  faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidenscompleterodrigo"  faction="Faction.clan_hammerandsword" />
+  <Hero id="spcwandererzzmercenarymaidenscompletekeith"  faction="Faction.clan_hammerandsword" />
+    <Hero id="spcwandererzzmercenarymaidenscompletecarina"  faction="Faction.clan_hammerandsword" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenslennon"  faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidensdemi"  faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidensveronica"  faction="Faction.clan_steelorder" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletedariel"  faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidenscompletealessandro"  faction="Faction.clan_steelorder" />
+  <Hero id="spcwandererzzmercenarymaidenscompletefletcher"  faction="Faction.clan_steelorder" />
+    <Hero id="spcwandererzzmercenarymaidenscompletejanelle"  faction="Faction.clan_steelorder" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidenskate"  faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenslegacy"  faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenssierra"  faction="Faction.clan_fury" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletedustin"  faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenscompletenelson"  faction="Faction.clan_fury" />
+  <Hero id="spcwandererzzmercenarymaidenscompletericky"  faction="Faction.clan_fury" />
+    <Hero id="spcwandererzzmercenarymaidenscompletetori"  faction="Faction.clan_fury" />
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensmyra"  faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidensmeredith"  faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidensivara"  faction="Faction.clan_roguemaidens" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelachlan"  faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteaugustine"  faction="Faction.clan_roguemaidens" />
+  <Hero id="spcwandererzzmercenarymaidenscompletenathanael"  faction="Faction.clan_roguemaidens" />
+    <Hero id="spcwandererzzmercenarymaidenscompletewhitney"  faction="Faction.clan_roguemaidens" />
+	
+  
+  <Hero id="spcwandererzzmercenarymaidenslydia"  faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidensalice"  faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidensemerald"  faction="Faction.clan_kingsguard" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelouie"  faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteorlando"  faction="Faction.clan_kingsguard" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteforest"  faction="Faction.clan_kingsguard" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteshirley"  faction="Faction.clan_kingsguard" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenskimberly"  faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidensariel"  faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidensvivienne"  faction="Faction.clan_immortals" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletealaric"  faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidenscompletelarry"  faction="Faction.clan_immortals" />
+  <Hero id="spcwandererzzmercenarymaidenscompletekaiser"  faction="Faction.clan_immortals" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteamaris"  faction="Faction.clan_immortals" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenslexi"  faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenselliott"  faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenskora"  faction="Faction.clan_crusadersreborn" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletecain"  faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenscompletegraysen"  faction="Faction.clan_crusadersreborn" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteavi"  faction="Faction.clan_crusadersreborn" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteivy"  faction="Faction.clan_crusadersreborn" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensalessia"  faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidensapril"  faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidensjenna"  faction="Faction.clan_valkyrie" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletebear"  faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteadler"  faction="Faction.clan_valkyrie" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteseven"  faction="Faction.clan_valkyrie" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteleia"  faction="Faction.clan_valkyrie" />
+
+  
+  
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenssabrina"  faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidensberenice"  faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidensshaina"  faction="Faction.clan_legion" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompleteyorik"  faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteazrael"  faction="Faction.clan_legion" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteblaise"  faction="Faction.clan_legion" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteangeline"  faction="Faction.clan_legion" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidenssharron"  faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidenselucia"  faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidensrina"  faction="Faction.clan_keepersofthewoods" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompleteleroy"  faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidenscompletedavion"  faction="Faction.clan_keepersofthewoods" />
+  <Hero id="spcwandererzzmercenarymaidenscompletemordechai"  faction="Faction.clan_keepersofthewoods" />
+    <Hero id="spcwandererzzmercenarymaidenscompleteaddyson"  faction="Faction.clan_keepersofthewoods" />
+
+  
+  
+    <Hero id="spcwandererzzmercenarymaidensliberty"  faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidensartemis"  faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidenschristina"  faction="Faction.clan_angelsofdeath" />
+  
+      <Hero id="spcwandererzzmercenarymaidenscompleteeddy"  faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidenscompletetrent"  faction="Faction.clan_angelsofdeath" />
+  <Hero id="spcwandererzzmercenarymaidenscompletedion"  faction="Faction.clan_angelsofdeath" />
+      <Hero id="spcwandererzzmercenarymaidenscompletejolie"  faction="Faction.clan_angelsofdeath" />
+  
+  
+  
+  
+  
+    <Hero id="spcwandererzzmercenarymaidensxtraiyana"  faction="Faction.clan_trident" />
+  <Hero id="spcwandererzzmercenarymaidensxtrataryn"  faction="Faction.clan_trident" />
+  <Hero id="spcwandererzzmercenarymaidensxtramylie"  faction="Faction.clan_trident" />
+  
+      <Hero id="spcwandererzzmercenarymaidenscompleteterrance"  faction="Faction.clan_trident" />
+  <Hero id="spcwandererzzmercenarymaidenscompleterome"  faction="Faction.clan_trident" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteheath"  faction="Faction.clan_trident" />
+      <Hero id="spcwandererzzmercenarymaidenscompletesidney"  faction="Faction.clan_trident" />
+
+	  
+	  
+  
+  <Hero id="spcwandererzzmercenarymaidensxtraisis"  faction="Faction.clan_blackplague" />
+  <Hero id="spcwandererzzmercenarymaidensxtrafelicity"  faction="Faction.clan_blackplague" />
+  <Hero id="spcwandererzzmercenarymaidensxtraavery"  faction="Faction.clan_blackplague" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletetheodore"  faction="Faction.clan_blackplague" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteleo"  faction="Faction.clan_blackplague" />
+  <Hero id="spcwandererzzmercenarymaidenscompletelandon"  faction="Faction.clan_blackplague" />
+    <Hero id="spcwandererzzmercenarymaidenscompletebraelyn"  faction="Faction.clan_blackplague" />
+
+	
+  
+  <Hero id="spcwandererzzmercenarymaidensxtrabrielle"  faction="Faction.clan_blacklegion" />
+  <Hero id="spcwandererzzmercenarymaidensxtraindia"  faction="Faction.clan_blacklegion" />
+  <Hero id="spcwandererzzmercenarymaidensxtramegan"  faction="Faction.clan_blacklegion" />	
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletecooper"  faction="Faction.clan_blacklegion" />
+  <Hero id="spcwandererzzmercenarymaidenscompletesantiago"  faction="Faction.clan_blacklegion" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteeverett"  faction="Faction.clan_blacklegion" />
+    <Hero id="spcwandererzzmercenarymaidenscompletemollie"  faction="Faction.clan_blacklegion" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensxtragiselle"  faction="Faction.clan_vanguard" />
+  <Hero id="spcwandererzzmercenarymaidensxtrayara"  faction="Faction.clan_vanguard" />
+  <Hero id="spcwandererzzmercenarymaidensxtrachloe"  faction="Faction.clan_vanguard" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletejoseph"  faction="Faction.clan_vanguard" />
+  <Hero id="spcwandererzzmercenarymaidenscompletejack"  faction="Faction.clan_vanguard" />
+  <Hero id="spcwandererzzmercenarymaidenscompletecharles"  faction="Faction.clan_vanguard" />
+    <Hero id="spcwandererzzmercenarymaidenscompletemaelle"  faction="Faction.clan_vanguard" />
+
+	
+  
+  <Hero id="spcwandererzzmercenarymaidensxtraalyssa"  faction="Faction.clan_laststand" />
+  <Hero id="spcwandererzzmercenarymaidensxtraannabel"  faction="Faction.clan_laststand" />
+  <Hero id="spcwandererzzmercenarymaidensxtramelanie"  faction="Faction.clan_laststand" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompleteadrian"  faction="Faction.clan_laststand" />
+  <Hero id="spcwandererzzmercenarymaidenscompletemaverick"  faction="Faction.clan_laststand" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteleonardo"  faction="Faction.clan_laststand" />
+    <Hero id="spcwandererzzmercenarymaidenscompletevirginia"  faction="Faction.clan_laststand" />
+
+	
+  
+  <Hero id="spcwandererzzmercenarymaidensxtramaria"  faction="Faction.clan_titans" />
+  <Hero id="spcwandererzzmercenarymaidensxtrasherilyn"  faction="Faction.clan_titans" />
+  <Hero id="spcwandererzzmercenarymaidensxtravivian"  faction="Faction.clan_titans" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletemicah"  faction="Faction.clan_titans" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteparker"  faction="Faction.clan_titans" />
+  <Hero id="spcwandererzzmercenarymaidenscompletemike"  faction="Faction.clan_titans" />
+    <Hero id="spcwandererzzmercenarymaidenscompletebrisa"  faction="Faction.clan_titans" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensxtrayamira"  faction="Faction.clan_skyfall" />
+  <Hero id="spcwandererzzmercenarymaidensxtralucille"  faction="Faction.clan_skyfall" />
+  <Hero id="spcwandererzzmercenarymaidensxtramaya"  faction="Faction.clan_skyfall" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompleterudolph"  faction="Faction.clan_skyfall" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteallan"  faction="Faction.clan_skyfall" />
+  <Hero id="spcwandererzzmercenarymaidenscompletemicheal"  faction="Faction.clan_skyfall" />
+    <Hero id="spcwandererzzmercenarymaidenscompletedayana"  faction="Faction.clan_skyfall" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensxtrarylie"  faction="Faction.clan_nomercy" />
+  <Hero id="spcwandererzzmercenarymaidensxtralila"  faction="Faction.clan_nomercy" />
+  <Hero id="spcwandererzzmercenarymaidensxtrakaitlin"  faction="Faction.clan_nomercy" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletedouglass"  faction="Faction.clan_nomercy" />
+  <Hero id="spcwandererzzmercenarymaidenscompletecicero"  faction="Faction.clan_nomercy" />
+  <Hero id="spcwandererzzmercenarymaidenscompletesamuel"  faction="Faction.clan_nomercy" />
+    <Hero id="spcwandererzzmercenarymaidenscompletetalia"  faction="Faction.clan_nomercy" />
+
+  
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensxtramyrthe"  faction="Faction.clan_deathfromabove" />
+  <Hero id="spcwandererzzmercenarymaidensxtraelyse"  faction="Faction.clan_deathfromabove" />
+  <Hero id="spcwandererzzmercenarymaidensxtraakira"  faction="Faction.clan_deathfromabove" />
+
+    <Hero id="spcwandererzzmercenarymaidenscompletemerit"  faction="Faction.clan_deathfromabove" />
+  <Hero id="spcwandererzzmercenarymaidenscompletejahnu"  faction="Faction.clan_deathfromabove" />
+  <Hero id="spcwandererzzmercenarymaidenscompletenarcissus"  faction="Faction.clan_deathfromabove" />
+    <Hero id="spcwandererzzmercenarymaidenscompletesanaa"  faction="Faction.clan_deathfromabove" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensxtramika"  faction="Faction.clan_conquistadors" />
+  <Hero id="spcwandererzzmercenarymaidensxtraaria"  faction="Faction.clan_conquistadors" />
+  <Hero id="spcwandererzzmercenarymaidensxtramikayla"  faction="Faction.clan_conquistadors" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletemarcus"  faction="Faction.clan_conquistadors" />
+  <Hero id="spcwandererzzmercenarymaidenscompletebennacio"  faction="Faction.clan_conquistadors" />
+  <Hero id="spcwandererzzmercenarymaidenscompletewolfram"  faction="Faction.clan_conquistadors" />
+    <Hero id="spcwandererzzmercenarymaidenscompletekrystal"  faction="Faction.clan_conquistadors" />
+
+  
+  
+  <Hero id="spcwandererzzmercenarymaidensxtrahannah"  faction="Faction.clan_knighthood" />
+  <Hero id="spcwandererzzmercenarymaidensxtraaubrey"  faction="Faction.clan_knighthood" />
+  <Hero id="spcwandererzzmercenarymaidensxtraisra"  faction="Faction.clan_knighthood" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelucentio"  faction="Faction.clan_knighthood" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteberwick"  faction="Faction.clan_knighthood" />
+  <Hero id="spcwandererzzmercenarymaidenscompleteclementino"  faction="Faction.clan_knighthood" />
+    <Hero id="spcwandererzzmercenarymaidenscompletesam"  faction="Faction.clan_knighthood" />
+
+  
+  <Hero id="spcwandererzzmercenarymaidensxtradana"  faction="Faction.clan_heroesoftheempire" />
+  <Hero id="spcwandererzzmercenarymaidensxtrakirsten"  faction="Faction.clan_heroesoftheempire" />
+  <Hero id="spcwandererzzmercenarymaidensxtramonica"  faction="Faction.clan_heroesoftheempire" />
+  
+    <Hero id="spcwandererzzmercenarymaidenscompletelaserian"  faction="Faction.clan_heroesoftheempire" />
+  <Hero id="spcwandererzzmercenarymaidenscompletequinton"  faction="Faction.clan_heroesoftheempire" />
+  <Hero id="spcwandererzzmercenarymaidenscompletenathaniel"  faction="Faction.clan_heroesoftheempire" />
+    <Hero id="spcwandererzzmercenarymaidenscompletestacy"  faction="Faction.clan_heroesoftheempire" />
+
+  
+  
+
+</Heroes>
